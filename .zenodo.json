@@ -7,10 +7,13 @@
     ],
     "description": "<p>Under <a href=\"https://www.nysenate.gov/legislation/laws/CNS/A9\">Article IX (Local Governments) of the Constitution of the State of New York</a>, adopted in 1963, local governments in the State of New York have the power to adopt local laws. To effectuate the article, the Legislature enacted the <a href=\"https://www.nysenate.gov/legislation/laws/MHR/\">Municipal Home Rule Law</a> (<a href=\"https://hdl.handle.net/2027/uc1.a0001834712?urlappend=%3Bseq=893%3Bownerid=113368669-899\">1963 N.Y. Laws 2697, Ch. 843</a>), which outlines the process that local governments must follow to adopt local laws. <a href=\"https://www.nysenate.gov/legislation/laws/MHR/27\">Section 27 of the Law</a> requires local governments to file local laws with the Secretary of State before they can become effective.</p>\n\n<p>This data set contains index records for over 130,000 local laws filed with the Secretary of State, mostly between 1969 and 2003. Pursuant to Freedom of Information Law (FOIL) Request No. DOS-22-02-052, a copy of the index database, created using DataPerfect, was released by the State on March 17, 2022. These records were requested in an effort to expand the geographic scope and detail of information in the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government.</p>\n\n<p>This data set complements local law volumes published with session laws through 1973, along with printed indexes covering the years 1974 through 1982.</p>",
     "keywords": [
-        "gis",
-        "counties",
         "boundaries",
-        "geohistory"
+        "local laws",
+        "New York",
+        "municipal government",
+        "parking",
+        "traffic regulations",
+        "zoning"
     ],
     "language": "eng",
     "license": {
