@@ -1,5 +1,7 @@
 # Law Indexes: New York (Local Laws)
 
+[![DOI](https://zenodo.org/badge/737476182.svg)](https://zenodo.org/doi/10.5281/zenodo.10446244)
+
 ## Summary
 
 Under [Article IX (Local Governments) of the Constitution of the State of New York](https://www.nysenate.gov/legislation/laws/CNS/A9), adopted in 1963, local governments in the State of New York have the power to adopt local laws. To effectuate the article, the Legislature enacted the [Municipal Home Rule Law](https://www.nysenate.gov/legislation/laws/MHR/) ([1963 N.Y. Laws 2697, Ch. 843](https://hdl.handle.net/2027/uc1.a0001834712?urlappend=%3Bseq=893%3Bownerid=113368669-899)), which outlines the process that local governments must follow to adopt local laws. [Section 27 of the Law](https://www.nysenate.gov/legislation/laws/MHR/27) requires local governments to file local laws with the Secretary of State before they can become effective.
