@@ -6,7 +6,7 @@ Under [Article IX (Local Governments) of the Constitution of the State of New Yo
 
 This data set contains index records for over 130,000 local laws filed with the Secretary of State, mostly between 1969 and 2003. Under Freedom of Information Law (FOIL) Request No. DOS-22-02-052, a copy of the index database, created using DataPerfect, was released by the State on March 17, 2022. These records were requested to expand the Local Geohistory Project, which aims to educate users and disseminate information concerning the geographic history and structure of political subdivisions and local government.
 
-This data set complements local law volumes published with session laws through 1973, along with printed indexes covering the years 1974 through 1982.
+This data set complements local law volumes published with session laws through 1973, along with printed indexes covering the years 1974 through 1982. Original local law filings for this time period have been accessioned by the New York State Archives as part of [Series Number 13241](https://iarchives.nysed.gov/xtf/view?docId=ead/findingaids/13241.xml;query=).
 
 ## Files
 
