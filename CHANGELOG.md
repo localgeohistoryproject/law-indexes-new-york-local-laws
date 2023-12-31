@@ -6,6 +6,10 @@
 
 - Zenodo DOI badge to README.
 
+### Fixed
+
+- Zenodo upload type to dataset.
+
 ## [1.0.0] - 2023-12-31
 
 ### Added
