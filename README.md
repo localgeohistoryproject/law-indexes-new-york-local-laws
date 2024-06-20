@@ -20,12 +20,18 @@ The following files were created by the State of New York and included in their 
 - **input/LGSS.TXX:** *DataPerfect variable-length text field file.* This contains data for the Title field in the index.
 - **input/LGSSLAWS:** *DataPerfect data file.* This contains data for all of the remaining fields.
 
+### Intermediate files
+
+The following files were not created by the State of New York, and are derived from either the input files, or other metadata files created by the State of New York:
+
+- **intermediate/LocalLawsIndex19692003.txt:** *Text file.* Direct DataPerfect output created using all but the Post-Processing portion of the Methodology.
+
 ### Output files
 
 The following files were not created by the State of New York, and are derived from the input files:
 
 - **output/LocalLawsIndex.tsv:** *Tab-separated values (TSV) file.* Created using the entire Methodology, including Post-Processing.
-- **output/LocalLawsIndex.txt:** *Text file.* Direct DataPerfect output created using all but the Post-Processing portion of the Methodology.
+
 
 ## Methodology
 
@@ -81,10 +87,10 @@ The work and information about its 2005 PDF release are preserved on the Interne
 
 The report as exported by DataPerfect has some formatting challenges, such as mid-row line breaks, and tildes at the ends of rows. Some dates have empty values, which renders imports into PostgreSQL difficult without substituting **\\N** placeholders. In at least two places, diacritic marks are used in lieu of a lowercase letter a. The report is also not consistent with other Local Geohistory Project open data exports.
 
-The following can be run to address these challenges, along with removing extraneous spaces, and adding a header row. Before running, the file should be renamed as **LocalLawsIndex.txt**.
+The following can be run to address these challenges, along with removing extraneous spaces, and adding a header row. Before running, the file should be renamed as **LocalLawsIndex19692003.txt**.
 
 ```bash
-sed "s/~\r//g" LocalLawsIndex.txt > LocalLawsIndex.tsv
+sed "s/~\r//g" LocalLawsIndex19692003.txt > LocalLawsIndex.tsv
 sed -i -z "s/\r\n/~/g" LocalLawsIndex.tsv
 sed -i 's/  */ /g' LocalLawsIndex.tsv
 sed -i 's/ *~~* */~/g' LocalLawsIndex.tsv
