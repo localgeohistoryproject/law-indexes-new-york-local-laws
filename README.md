@@ -27,12 +27,13 @@ Because of their large size, none of the original files released by the State of
 The following files were not created by the State of New York, and are derived from either the input files, or other metadata files created by the State of New York:
 
 - **intermediate/1969-2003.txt:** *Text file.* Direct DataPerfect output from the 3 DataPerfect files included in the **input** folder.
+- **intermediate/1998-2024.txt:** *Text file.* Field values extracted from files released under FOIL Request No. R000244-022024.
 
 ### Output files
 
 The following files were not created by the State of New York, and are derived from the input files:
 
-- **output/LocalLawsIndex.tsv:** *Tab-separated values (TSV) file.* Created using the entire Methodology, including Post-Processing.
+- **output/LocalLawsIndex.tsv:** *Tab-separated values (TSV) file.* Created using the entire Methodology, including Post-Processing. **This currently only includes the data from FOIL Request No. DOS-22-02-052.**
 
 ## Methodology
 
