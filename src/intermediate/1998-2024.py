@@ -26,7 +26,7 @@ outputPath.write("Sequence|Group|Path\n")
 
 # Prerequisites for processing files
 
-sequence = 1
+sequence = 0
 xsltText = Path('./1998-2024.xslt').read_text()
 
 # Process files in rootFolder
