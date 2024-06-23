@@ -13,6 +13,5 @@ if os.path.isfile(file1969To2003):
     data1969To2003 = re.sub(r'  *' , ' ', data1969To2003)
     data1969To2003 = re.sub(r' *~~* *' , '~', data1969To2003)
     data1969To2003 = re.sub(r'[~ ]*[|][~ ]*' , '|', data1969To2003) # Ok through this line
-    data1969To2003 = re.sub(r'[|]' , '\t', data1969To2003)
     data1969To2003 = re.sub(r'¨', 'a', data1969To2003)
-    data1969To2003 = 'Municipality Type\tMunicipality Name\tYear\tNumber of Law\tFiling Date\tTitle\tSubject\tPages\tEntry Date\n' + data1969To2003
+    data1969To2003 = 'Municipality Type|Municipality Name|Year|Number of Law|Filing Date|Title|Subject|Pages|Entry Date\n' + data1969To2003
