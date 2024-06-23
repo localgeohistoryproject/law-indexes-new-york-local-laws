@@ -43,23 +43,7 @@ An explanation on how this processing was conducted is found in the **src/interm
 
 ### Intermediate to Output Processing
 
-The report as exported by DataPerfect has some formatting challenges, such as mid-row line breaks, and tildes at the ends of rows. In at least two places, diacritic marks are used in lieu of a lowercase letter a. The report is also not consistent with other Local Geohistory Project open data exports.
-
-The following can be run to address these challenges, along with removing extraneous spaces, and adding a header row. Before running, the file should be renamed as **1969-2003.txt**.
-
-```bash
-sed "s/~\r//g" "1969-2003.txt" > LocalLawsIndex.tsv
-sed -i -z "s/\r\n/~/g" LocalLawsIndex.tsv
-sed -i 's/  */ /g' LocalLawsIndex.tsv
-sed -i 's/ *~~* */~/g' LocalLawsIndex.tsv
-sed -i "s/~* *~*|~* *~*/|/g" LocalLawsIndex.tsv
-sed -i "s/|/\t/g" LocalLawsIndex.tsv
-cp LocalLawsIndex.tsv Win1252.tsv
-iconv -f WINDOWS-1252 -t UTF-8 Win1252.tsv > LocalLawsIndex.tsv
-rm Win1252.tsv
-sed -i 's/¨/a/g' LocalLawsIndex.tsv
-sed -i '1 i\Municipality Type\tMunicipality Name\tYear\tNumber of Law\tFiling Date\tTitle\tSubject\tPages\tEntry Date' LocalLawsIndex.tsv
-```
+The report as exported by DataPerfect has some formatting challenges, such as mid-row line breaks, and tildes at the ends of rows. In at least two places, diacritic marks are used in lieu of a lowercase letter a. A Python script can be run to address these challenges.
 
 ## Next steps
 
