@@ -1,17 +1,64 @@
+from io import StringIO
 import os
+import pandas
 from pathlib import Path
 import re
 
-data1969To2003 = ''
-file1969To2003 = '../../intermediate/1969-2003.txt'
-if os.path.isfile(file1969To2003):
-    file1969To2003 = open(file1969To2003, 'r', encoding='Windows-1252', newline="\r\n")
-    while fileLine := file1969To2003.readline():
-        data1969To2003 += fileLine
-    data1969To2003 = re.sub(r'~\r', '', data1969To2003)
-    data1969To2003 = re.sub(r'\r\n' , '~', data1969To2003)
-    data1969To2003 = re.sub(r'  *' , ' ', data1969To2003)
-    data1969To2003 = re.sub(r' *~~* *' , '~', data1969To2003)
-    data1969To2003 = re.sub(r'[~ ]*[|][~ ]*' , '|', data1969To2003) # Ok through this line
-    data1969To2003 = re.sub(r'¨', 'a', data1969To2003)
-    data1969To2003 = 'Municipality Type|Municipality Name|Year|Number of Law|Filing Date|Title|Subject|Pages|Entry Date\n' + data1969To2003
+def changeList(data, file):
+    if os.path.isfile(file):
+        file = open(file, 'r')
+        isHeader = True
+        while fileLine := file.readline():
+            if isHeader:
+                isHeader = False
+            else:
+                fileLine = fileLine.split('\t')
+                data.at[int(fileLine[0]), fileLine[1]] = fileLine[2].strip()
+    return data
+
+def convert1969To2003():
+    data = ''
+    file = '../../intermediate/1969-2003.txt'
+    if os.path.isfile(file):
+        file = open(file, 'r', encoding='Windows-1252', newline="\r\n")
+        while fileLine := file.readline():
+            data += fileLine
+        file.close()
+        data = re.sub(r'~\r', '', data)
+        data = re.sub(r'\r\n' , '~', data)
+        data = re.sub(r'  *' , ' ', data)
+        data = re.sub(r' *~~* *' , '~', data)
+        data = re.sub(r'[~ ]*[|][~ ]*' , '|', data)
+        data = re.sub(r'¨', 'a', data)
+        data = 'muni_type|muni_name|doc_year|law_number|date_filed|doc_subject|Subject|Pages|EntryDate\n' + data
+        data = pandas.read_table(StringIO(data), sep='|', quoting=3)
+        data = data.assign(docClassId='dos_local_law_doc')
+        data = data.reindex(['docClassId', 'muni_name', 'muni_type', 'doc_year', 'law_number', 'date_filed', 'doc_subject'], axis=1)
+        data = data.replace(to_replace={'date_filed': r'^(\d{2})[/](\d{2})[/](\d{4})$'}, value=r'\3-\1-\2', regex=True)
+        file = '../../intermediate/1969-2003-change.tsv'
+        data = changeList(data, file)
+    return data
+
+def convert1998To2024():
+    data = ''
+    file = '../../intermediate/1998-2024.txt'
+    if os.path.isfile(file):
+        data = pandas.read_table(file, sep='|', quoting=3)
+        data = data.replace(to_replace={'date_filed': r'^(\d{4})(\d{2})(\d{2})000000'}, value=r'\1-\2-\3', regex=True)
+        file = '../../intermediate/1998-2024-change.tsv'
+        data = changeList(data, file)
+    return data
+
+def convertConcat(data):
+    data = data.replace(to_replace={'docClassId': 'dos_local_law_doc'}, value='Local Laws')
+    data = data.replace(to_replace={'docClassId': 'dos_codified_law_doc'}, value='County Codes')
+    return data
+
+def main():
+    data1969To2003 = convert1969To2003()
+    data1998To2024 = convert1998To2024()
+    data = convertConcat(pandas.concat([data1969To2003, data1998To2024], ignore_index=True))
+    data.to_csv('../../output/NYLocalLawIndex.tsv', sep='\t', index=False, quoting=3)
+
+if __name__ == '__main__':
+    main()
