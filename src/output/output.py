@@ -13,7 +13,6 @@ def getGovernmentList():
         data = data.assign(govLookup=data.lookup_name+'|'+data.lookup_type)
     return data
 
-
 def changeList(data, file):
     if os.path.isfile(file):
         file = open(file, 'r')
@@ -71,6 +70,10 @@ def convertConcat(data):
     data['Name'] = numpy.where(data['GNIS'] == '', data['muni_name'].str.title(), data['Name'])
     data['Type'] = numpy.where(data['GNIS'] == '', data['muni_type'].str.title(), data['Type'])
     data = data.reindex(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'Law Number', 'Date Filed', 'Subject'], axis=1)
+    data = data.groupby(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'Law Number', 'Date Filed'], as_index=False).max()
+    data = data.assign(numberNumber=data['Law Number'].astype(float, errors='ignore'))
+    data = data.sort_values(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'numberNumber', 'Date Filed', 'Subject'])
+    data = data.drop(columns=['numberNumber'])
     return data
 
 def main():
