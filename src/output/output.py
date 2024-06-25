@@ -44,19 +44,40 @@ def convert1969To2003():
         data = data.assign(docClassId='dos_local_law_doc')
         data = data.reindex(['docClassId', 'muni_name', 'muni_type', 'doc_year', 'law_number', 'date_filed', 'doc_subject'], axis=1)
         data = data.replace(to_replace={'date_filed': r'^(\d{2})[/](\d{2})[/](\d{4})$'}, value=r'\3-\1-\2', regex=True)
+        # originalData = data.copy()
         file = '../../intermediate/1969-2003-change.tsv'
         data = changeList(data, file)
+        # comparison = originalData.compare(data, keep_equal=True)
+        # comparison.to_csv('../intermediate/private/1969-2003-compare.tsv', sep='\t', index=False, quoting=3)
     return data
 
 def convert1998To2024():
     data = ''
     file = '../../intermediate/1998-2024.txt'
     if os.path.isfile(file):
-        data = pandas.read_table(file, sep='|', dtype='str', keep_default_na=False, quoting=3)
+        file = Path(file).read_text()
+        addFile = '../../intermediate/1998-2024-add.txt'
+        addText = ''
+        if os.path.isfile(addFile):
+            addFile = open(addFile, 'r')
+            isHeader = True
+            while fileLine := addFile.readline():
+                if isHeader:
+                    isHeader = False
+                else:
+                    fileLine = fileLine.split('|')
+                    fileLine.pop()
+                    addText += '\n' + ('|'.join(fileLine).strip())
+            addFile.close()
+        file += addText
+        data = pandas.read_table(StringIO(file), sep='|', dtype='str', keep_default_na=False, quoting=3)
         data = data.replace(to_replace={'date_filed': r'^(\d{4})(\d{2})(\d{2})\d{6}'}, value=r'\1-\2-\3', regex=True)
         data = data.replace(to_replace={'date_filed': 'nulldate'}, value='')
+        # originalData = data.copy()
         file = '../../intermediate/1998-2024-change.tsv'
         data = changeList(data, file)
+        # comparison = originalData.compare(data, keep_equal=True)
+        # comparison.to_csv('../intermediate/private/1998-2024-compare.tsv', sep='\t', index=False, quoting=3)
     return data
 
 def convertConcat(data):
@@ -66,9 +87,8 @@ def convertConcat(data):
     data = data.assign(munLookup=data.muni_name+'|'+data.muni_type)
     data = data.merge(getGovernmentList(), how='outer', left_on='munLookup', right_on='govLookup')
     data = data.fillna('')
+    # data = data[data.standard_gnis != '']
     data = data.rename(columns={'standard_name': 'Name', 'standard_type': 'Type', 'standard_gnis': 'GNIS', 'docClassId': 'Law Type', 'doc_year': 'Law Year', 'law_number': 'Law Number', 'date_filed': 'Date Filed', 'doc_subject': 'Subject'})
-    data['Name'] = numpy.where(data['GNIS'] == '', data['muni_name'].str.title(), data['Name'])
-    data['Type'] = numpy.where(data['GNIS'] == '', data['muni_type'].str.title(), data['Type'])
     data = data.reindex(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'Law Number', 'Date Filed', 'Subject'], axis=1)
     data = data.groupby(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'Law Number', 'Date Filed'], as_index=False).max()
     data = data.assign(numberNumber=data['Law Number'].astype(float, errors='ignore'))
