@@ -91,7 +91,8 @@ def convertConcat(data):
     data = data.rename(columns={'standard_name': 'Name', 'standard_type': 'Type', 'standard_gnis': 'GNIS', 'docClassId': 'Law Type', 'doc_year': 'Law Year', 'law_number': 'Law Number', 'date_filed': 'Date Filed', 'doc_subject': 'Subject'})
     data = data.reindex(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'Law Number', 'Date Filed', 'Subject'], axis=1)
     data = data.groupby(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'Law Number', 'Date Filed'], as_index=False).max()
-    data = data.assign(numberNumber=data['Law Number'].astype(float, errors='ignore'))
+    data['numberNumber'] = data['Law Number'].str.zfill(3)
+    data = data.replace(to_replace={'numberNumber': r'^(.*[A-Za-z])$'}, value=r'0\1', regex=True)
     data = data.sort_values(['Name', 'Type', 'GNIS', 'Law Type', 'Law Year', 'numberNumber', 'Date Filed', 'Subject'])
     data = data.drop(columns=['numberNumber'])
     return data
