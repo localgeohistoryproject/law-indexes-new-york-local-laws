@@ -48,7 +48,7 @@ def convert1969To2003():
         file = '../../intermediate/1969-2003-change.tsv'
         data = changeList(data, file)
         # comparison = originalData.compare(data, keep_equal=True)
-        # comparison.to_csv('../intermediate/private/1969-2003-compare.tsv', sep='\t', index=False, quoting=3)
+        # comparison.to_csv('../intermediate/private/1969-2003-compare.tsv', sep='\t', quoting=3)
     return data
 
 def convert1998To2024():
@@ -77,7 +77,7 @@ def convert1998To2024():
         file = '../../intermediate/1998-2024-change.tsv'
         data = changeList(data, file)
         # comparison = originalData.compare(data, keep_equal=True)
-        # comparison.to_csv('../intermediate/private/1998-2024-compare.tsv', sep='\t', index=False, quoting=3)
+        # comparison.to_csv('../intermediate/private/1998-2024-compare.tsv', sep='\t', quoting=3)
     return data
 
 def convertConcat(data):
