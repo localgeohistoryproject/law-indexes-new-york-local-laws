@@ -32,6 +32,8 @@ sequence	field	new_value
 7768	muni_name	LEWIS (ESSEX)
 7769	muni_name	LEWIS (LEWIS CO)
 7770	muni_name	LEWIS (LEWIS CO)
+8117	muni_type	VILLAGE
+8744	muni_type	TOWN
 8880	muni_name	LEWIS (LEWIS CO)
 8881	muni_name	LEWIS (LEWIS CO)
 8882	muni_name	LEWIS (LEWIS CO)
@@ -54,8 +56,11 @@ sequence	field	new_value
 9965	muni_name	WATERFORD
 9966	muni_name	WATERFORD
 10180	muni_name	MORRISTOWN
+10302	muni_type	VILLAGE
 10713	muni_name	ONTARIO
 11120	muni_name	LEWIS (LEWIS CO)
+11284	muni_type	VILLAGE
+11285	muni_type	VILLAGE
 11568	muni_name	GREENVILLE (GREENE)
 11569	muni_name	GREENVILLE (GREENE)
 11570	muni_name	GREENVILLE (GREENE)
@@ -81,6 +86,7 @@ sequence	field	new_value
 11857	muni_name	DICKINSON (BROOME)
 11858	muni_name	DICKINSON (BROOME)
 11977	muni_type	VILLAGE
+12076	muni_type	VILLAGE
 12211	muni_name	WAPPINGERS FALLS
 12268	muni_name	THOMASTON
 12771	muni_name	HILTON
@@ -99,6 +105,7 @@ sequence	field	new_value
 15684	muni_name	DICKINSON (BROOME)
 15857	muni_name	CHESTER (WARREN)
 15858	muni_name	CHESTER (WARREN)
+16258	muni_type	VILLAGE
 18068	muni_name	LEWIS (LEWIS CO)
 18071	muni_name	LEWIS (LEWIS CO)
 18593	muni_name	LEWIS (LEWIS CO)
@@ -139,7 +146,10 @@ sequence	field	new_value
 19680	muni_name	DICKINSON (BROOME)
 19682	muni_name	DICKINSON (BROOME)
 19892	muni_name	CLINTON (DUTCHESS)
+21121	muni_type	VILLAGE
 21191	muni_type	VILLAGE
+21558	muni_type	VILLAGE
+21593	muni_type	VILLAGE
 21748	muni_name	NEW YORK
 21749	muni_name	NEW YORK
 21750	muni_name	NEW YORK
@@ -150,6 +160,7 @@ sequence	field	new_value
 21777	muni_name	DRYDEN
 21778	muni_name	DRYDEN
 21780	muni_name	DRYDEN
+21863	muni_type	VILLAGE
 22098	muni_name	LEWIS (LEWIS CO)
 22236	muni_name	CLINTON (DUTCHESS)
 22864	muni_name	BRIGHTON (MONROE)
@@ -182,6 +193,7 @@ sequence	field	new_value
 23818	muni_name	DICKINSON (BROOME)
 23820	muni_name	DICKINSON (BROOME)
 23822	muni_name	DICKINSON (BROOME)
+24069	muni_type	TOWN
 24479	muni_name	BRIGHTON (MONROE)
 24482	muni_name	BRIGHTON (MONROE)
 24484	muni_name	BRIGHTON (MONROE)
@@ -225,25 +237,36 @@ sequence	field	new_value
 32597	muni_name	SHELTER ISLAND
 32752	muni_name	SHELDON
 33492	muni_name	LEWIS (LEWIS CO)
+34310	muni_type	TOWN
 35452	muni_name	FREMONT (SULLIVAN)
 35453	muni_name	FREMONT (SULLIVAN)
 35454	muni_name	FREMONT (SULLIVAN)
 35455	muni_name	FREMONT (SULLIVAN)
+35692	muni_type	TOWN
+35752	muni_type	VILLAGE
+35753	muni_type	VILLAGE
 36141	muni_name	ALBION (ORLEANS)
+36151	muni_type	CITY
 36384	muni_type	VILLAGE
+36513	muni_type	VILLAGE
 36784	muni_type	VILLAGE
 37425	muni_type	COUNTY
 37500	muni_name	CONSTABLEVILLE
+37525	muni_type	VILLAGE
+37702	muni_type	VILLAGE
 37907	muni_name	LEWIS (LEWIS CO)
 37908	muni_name	LEWIS (LEWIS CO)
 37909	muni_name	LEWIS (LEWIS CO)
 37953	muni_type	VILLAGE
+38135	muni_name	MILTON
 38359	muni_name	GREENVILLE (GREENE)
 38360	muni_name	GREENVILLE (GREENE)
 38423	muni_name	FREMONT (STEUBEN)
 38424	muni_name	FREMONT (SULLIVAN)
 38427	muni_name	FRANKLIN (FRANKLIN)
 38428	muni_name	FRANKLIN (FRANKLIN)
+38479	muni_type	VILLAGE
+38480	muni_type	VILLAGE
 38599	muni_name	DICKINSON (FRANKLIN)
 38600	muni_name	DICKINSON (FRANKLIN)
 38601	muni_name	DICKINSON (BROOME)
@@ -278,27 +301,45 @@ sequence	field	new_value
 39794	muni_name	RICHFIELD SPRINGS
 39836	muni_type	VILLAGE
 39870	muni_type	CITY
+39879	muni_type	VILLAGE
+40009	muni_type	VILLAGE
 40138	muni_type	VILLAGE
+40148	doc_subject	for Flood Damage Prevention as authorized by the New York State Constitution, Article IX, Section 2, and Environmental Conservation Law, Article 36
+40148	law_number	1
+40148	muni_name	KNOX
+40148	muni_type	TOWN
+40173	muni_type	TOWN
 40230	muni_type	VILLAGE
 40432	muni_name	ROCHESTER
 40445	muni_name	ROCHESTER
+40465	muni_type	VILLAGE
 40491	muni_name	LEWIS
 40492	muni_name	LEWIS
 40493	muni_type	COUNTY
 40529	muni_name	CLINTON
+40564	muni_type	VILLAGE
 40565	muni_name	CLINTON
 40618	muni_type	VILLAGE
 40661	muni_type	VILLAGE
 40727	muni_type	COUNTY
+40807	muni_name	PITTSFORD
+40916	muni_name	ORANGE
+40946	muni_type	TOWN
+40962	muni_type	CITY
+40985	muni_name	THE BRANCH
 40996	muni_name	CLARKSTOWN
 41036	muni_name	FULTON
 41109	muni_type	COUNTY
 41153	muni_type	COUNTY
+41219	muni_type	TOWN
 41271	muni_type	COUNTY
 41331	muni_type	TOWN
+41567	muni_type	VILLAGE
 42163	muni_name	TUSTEN
 42173	muni_name	HARRISON
 43808	muni_type	VILLAGE
+43910	muni_type	VILLAGE
+43914	muni_type	VILLAGE
 44088	muni_name	BEACON
 44564	muni_type	COUNTY
 44568	muni_type	COUNTY
@@ -310,6 +351,7 @@ sequence	field	new_value
 44574	muni_type	COUNTY
 44575	muni_type	COUNTY
 44576	muni_type	COUNTY
+45647	muni_type	TOWN
 45953	muni_name	RICHFIELD SPRINGS
 46606	muni_name	HAMMOND
 46898	muni_name	DOLGEVILLE
@@ -317,6 +359,7 @@ sequence	field	new_value
 47828	muni_type	COUNTY
 47829	muni_type	COUNTY
 47831	muni_type	COUNTY
+47944	muni_type	TOWN
 48057	muni_name	FREMONT (SULLIVAN)
 48058	muni_name	DICKINSON (BROOME)
 48272	muni_type	TOWN
@@ -332,7 +375,15 @@ sequence	field	new_value
 50114	muni_name	BRIGHTON (MONROE)
 50181	muni_name	ALBION (OSWEGO)
 50262	muni_type	COUNTY
+50646	muni_type	TOWN
+50745	muni_type	TOWN
+50760	muni_type	VILLAGE
+50765	muni_name	FISHKILL
 50767	muni_name	SMITHTOWN
+51046	muni_type	VILLAGE
+51047	muni_type	VILLAGE
+51090	muni_type	VILLAGE
+51127	muni_name	ROCHESTER
 51360	muni_name	LEWIS (LEWIS CO)
 51830	muni_name	CLINTON (DUTCHESS)
 51900	muni_name	CHESTER (ORANGE)
@@ -382,6 +433,7 @@ sequence	field	new_value
 56242	muni_name	ALBION (ORLEANS)
 56243	muni_name	ALBION (ORLEANS)
 56712	muni_name	WALTON
+57238	muni_type	TOWN
 57753	muni_name	BRIGHTON (MONROE)
 57755	muni_name	BRIGHTON (MONROE)
 57756	muni_name	BRIGHTON (FRANKLIN)
@@ -401,6 +453,7 @@ sequence	field	new_value
 58039	muni_name	BRIGHTON (MONROE)
 58041	muni_name	BRIGHTON (MONROE)
 58042	muni_name	BRIGHTON (FRANKLIN)
+58865	muni_type	VILLAGE
 58866	muni_type	VILLAGE
 58867	muni_type	VILLAGE
 60880	muni_type	COUNTY
@@ -408,12 +461,15 @@ sequence	field	new_value
 62254	muni_name	LEWIS (LEWIS CO)
 62255	muni_name	LEWIS (LEWIS CO)
 62299	muni_type	VILLAGE
+62482	muni_name	MILTON
 62706	muni_name	GREENVILLE (GREENE)
 62707	muni_name	GREENVILLE (GREENE)
 62770	muni_name	FREMONT (STEUBEN)
 62771	muni_name	FREMONT (SULLIVAN)
 62774	muni_name	FRANKLIN (FRANKLIN)
 62775	muni_name	FRANKLIN (FRANKLIN)
+62826	muni_type	VILLAGE
+62827	muni_type	VILLAGE
 62946	muni_name	DICKINSON (BROOME)
 62947	muni_name	DICKINSON (BROOME)
 62948	muni_name	DICKINSON (BROOME)
@@ -476,8 +532,11 @@ sequence	field	new_value
 66568	muni_name	BRIGHTON (MONROE)
 66797	muni_name	ALBION (OSWEGO)
 67221	muni_type	TOWN
+67816	muni_type	TOWN
+68545	muni_type	TOWN
 68557	muni_type	TOWN
 68717	muni_type	TOWN
+70617	muni_type	TOWN
 71787	muni_name	WALES
 71926	muni_name	CHESTER (ORANGE)
 71927	muni_name	CHESTER (ORANGE)
@@ -502,6 +561,7 @@ sequence	field	new_value
 72435	muni_name	GREENVILLE (GREENE)
 72436	muni_name	GREENVILLE (GREENE)
 72549	muni_name	FREMONT (STEUBEN)
+72703	muni_type	VILLAGE
 73824	muni_name	FARMERSVILLE
 73853	muni_name	BRANT
 73885	muni_name	EAST HILLS
@@ -527,6 +587,7 @@ sequence	field	new_value
 74418	muni_name	ALBION (ORLEANS)
 74419	muni_name	ALBION (ORLEANS)
 74931	muni_type	CITY
+75381	muni_type	TOWN
 75651	muni_name	ELMIRA HEIGHTS
 75768	muni_name	NORTH CASTLE
 76285	muni_type	CITY
@@ -539,22 +600,31 @@ sequence	field	new_value
 77131	muni_name	DICKINSON (BROOME)
 77132	muni_name	DICKINSON (BROOME)
 77133	muni_name	DICKINSON (BROOME)
+77251	muni_type	TOWN
 77253	muni_name	CLINTON (DUTCHESS)
 77254	muni_name	CLINTON (DUTCHESS)
 77617	muni_name	ASHLAND (CHEMUNG)
+77852	muni_type	TOWN
+77853	muni_type	TOWN
 78165	muni_name	TRUXTON
 78166	muni_name	TUSTEN
 78196	muni_name	REDFIELD
+78342	muni_type	VILLAGE
 78365	muni_name	MINETTO
+78397	muni_type	VILLAGE
 78563	muni_name	POMPEY
 79043	muni_name	LEWIS (LEWIS CO)
 79044	muni_name	LEWIS (LEWIS CO)
 79183	muni_name	HOUNSFIELD
+79206	muni_name	HIGHLANDS
+79207	muni_name	HIGHLANDS
+79208	muni_name	HIGHLANDS
 79372	muni_name	GREENVILLE (GREENE)
 79373	muni_name	GREENVILLE (ORANGE)
 79374	muni_name	GREENVILLE (ORANGE)
 79375	muni_name	GREENVILLE (ORANGE)
 79440	muni_name	FREMONT (STEUBEN)
+79527	muni_type	VILLAGE
 79569	muni_name	DICKINSON (BROOME)
 79570	muni_name	DICKINSON (BROOME)
 79571	muni_name	DICKINSON (BROOME)
@@ -579,15 +649,20 @@ sequence	field	new_value
 80936	muni_type	CITY
 80963	muni_type	COUNTY
 81068	muni_name	ORANGE
+81762	muni_type	VILLAGE
 81895	muni_type	CITY
 81980	muni_type	VILLAGE
 82376	muni_type	COUNTY
 82526	muni_type	CITY
+82654	muni_type	TOWN
+82784	muni_type	CITY
+82789	muni_type	VILLAGE
 82892	muni_type	TOWN
 83326	muni_name	DICKINSON (BROOME)
 83327	muni_name	DICKINSON (BROOME)
 83352	muni_type	VILLAGE
 83361	muni_name	CHESTER (WARREN)
+83395	muni_type	VILLAGE
 83420	muni_name	ASHLAND (GREENE)
 83421	muni_name	ASHLAND (GREENE)
 83422	muni_name	ASHLAND (GREENE)
@@ -616,12 +691,19 @@ sequence	field	new_value
 83961	muni_name	BRIGHTON (MONROE)
 83962	muni_name	BRIGHTON (MONROE)
 85012	muni_name	SHELDON
+85267	muni_type	TOWN
 86528	muni_name	LEWIS (LEWIS CO)
 86530	muni_name	LEWIS (LEWIS CO)
 87280	muni_name	FREMONT (STEUBEN)
 87281	muni_name	FREMONT (SULLIVAN)
 87282	muni_name	FREMONT (SULLIVAN)
 87283	muni_name	FREMONT (STEUBEN)
+87285	muni_type	VILLAGE
+87286	muni_type	VILLAGE
+87287	muni_type	VILLAGE
+87288	muni_type	VILLAGE
+87289	muni_type	VILLAGE
+87290	muni_type	VILLAGE
 87796	muni_name	CLINTON (DUTCHESS)
 87797	muni_name	CLINTON (DUTCHESS)
 87800	muni_name	CLINTON (DUTCHESS)
@@ -642,7 +724,9 @@ sequence	field	new_value
 88191	muni_name	BRIGHTON (MONROE)
 88192	muni_name	BRIGHTON (FRANKLIN)
 88193	muni_name	BRIGHTON (MONROE)
+88302	muni_type	CITY
 88334	muni_name	BATAVIA
+88381	muni_type	CITY
 88391	muni_name	ASHLAND (CHEMUNG)
 88477	muni_name	ALBION (OSWEGO)
 88479	muni_name	ALBION (ORLEANS)
@@ -651,78 +735,162 @@ sequence	field	new_value
 90045	muni_type	COUNTY
 90046	muni_type	COUNTY
 90116	muni_type	COUNTY
+91191	muni_type	TOWN
+91577	muni_type	VILLAGE
 91652	muni_type	COUNTY
 91707	muni_name	WILLIAMSVILLE
 92051	muni_name	ROCHESTER
 92095	muni_name	LEWIS
 92096	muni_name	LEWIS
+92128	muni_name	WESTBURY
 92248	muni_name	FULTON
 92252	muni_name	MIDDLETOWN
 92320	muni_name	LEWIS
+92342	muni_type	VILLAGE
+92369	muni_name	WOODRIDGE
+92369	muni_type	VILLAGE
 92420	muni_name	CLINTON
+92447	muni_type	TOWN
 92500	muni_name	FULTON (SCHOHARIE)
 92502	muni_name	FULTON (SCHOHARIE)
+92619	muni_type	VILLAGE
 92721	muni_name	MIDDLETOWN
 92762	muni_type	COUNTY
 92770	muni_name	MIDDLETOWN
 92774	muni_name	CLINTON
+92785	muni_type	TOWN
 92844	muni_type	TOWN
+93220	muni_name	ROSLYN HARBOR
+93220	muni_type	VILLAGE
+93259	muni_type	TOWN
 93309	muni_type	VILLAGE
+93331	muni_type	TOWN
 93367	muni_type	VILLAGE
+93490	muni_type	VILLAGE
+93742	muni_type	VILLAGE
 93798	muni_type	TOWN
 93858	muni_name	CLINTON
 93859	muni_name	CLINTON
 93866	muni_type	VILLAGE
+93963	muni_type	TOWN
+94064	muni_type	VILLAGE
 94188	muni_type	VILLAGE
+94323	muni_type	TOWN
 94354	muni_type	TOWN
 94634	muni_type	VILLAGE
 94797	muni_type	COUNTY
+95042	muni_name	JAMESTOWN
+95092	muni_name	TAGHKANIC
 95099	muni_name	FRANKLIN
 95107	muni_name	FRANKLIN
 95137	muni_type	COUNTY
+95144	muni_type	CITY
+95173	muni_name	TAGHKANIC
+95363	muni_type	TOWN
+95622	muni_name	ELMIRA
+95744	muni_type	VILLAGE
+95799	muni_type	TOWN
+95847	muni_name	CORTLAND
+96082	muni_type	VILLAGE
 96174	muni_name	WILLIAMSVILLE
 96195	muni_name	ULSTER
 96515	muni_type	COUNTY
+96533	muni_type	VILLAGE
 96596	muni_type	COUNTY
+96633	muni_type	TOWN
 96780	muni_name	ROCHESTER
+96881	muni_type	TOWN
+96882	muni_type	TOWN
+96888	muni_type	VILLAGE
+97014	muni_name	PORT JERVIS
+97018	muni_type	VILLAGE
+97172	muni_type	TOWN
 97359	muni_type	COUNTY
+97382	muni_type	VILLAGE
 97406	muni_name	ROME
+97421	muni_type	VILLAGE
+97423	muni_type	VILLAGE
+97475	muni_name	WALTON
+97476	muni_type	VILLAGE
+97577	muni_type	CITY
 97639	muni_name	WARWICK
+97691	muni_type	TOWN
 97841	muni_type	COUNTY
+97870	muni_type	TOWN
 98202	muni_type	VILLAGE
+98418	muni_type	VILLAGE
 98506	muni_name	CORTLANDT
+98573	muni_type	TOWN
+98600	muni_type	VILLAGE
+98764	muni_type	VILLAGE
 98765	muni_name	BRIGHTWATERS
 98860	muni_type	COUNTY
 98882	muni_name	GREENE
+99019	muni_name	PITTSFORD
+99466	muni_type	TOWN
+99592	muni_type	TOWN
 99633	muni_name	CLINTON
 99835	muni_type	TOWN
 99902	muni_type	COUNTY
 99903	muni_type	COUNTY
+100153	muni_name	JAMESTOWN
+100405	muni_type	TOWN
 100451	muni_type	CITY
+100503	muni_type	TOWN
 100561	muni_type	CITY
+100681	muni_type	VILLAGE
+100697	muni_type	TOWN
 100806	muni_type	COUNTY
 100855	muni_name	CORTLANDT
+101154	muni_name	WESTCHESTER
 101516	muni_name	FAYETTEVILLE
 101691	muni_type	COUNTY
 101961	muni_type	VILLAGE
+101993	muni_name	WATERVLIET
+101995	muni_name	KINGSTON
 102003	muni_name	FRANKLIN
+102154	muni_type	VILLAGE
 102480	muni_type	TOWN
 102525	muni_type	TOWN
+102545	muni_type	TOWN
 102709	muni_type	VILLAGE
 102710	muni_type	VILLAGE
+102964	muni_type	VILLAGE
+103129	muni_type	VILLAGE
 103143	muni_name	CLINTON
+103340	muni_type	TOWN
 103414	muni_name	CANAJOHARIE
 103414	muni_type	TOWN
+103437	muni_type	TOWN
+103478	muni_name	SCHUYLER FALLS
+103538	muni_name	WATERVLIET
+103548	muni_name	KINGSTON
+103548	muni_type	CITY
 103551	muni_name	FRANKLIN
 103666	muni_name	MORRISTOWN
 103666	muni_type	TOWN
+103718	muni_name	MEDINA
+103779	muni_type	VILLAGE
+103879	muni_type	TOWN
 104054	muni_name	JEFFERSONVILLE
 104083	muni_name	CORTLANDT
+104097	muni_name	CHAMPLAIN
+104098	muni_name	CHAMPLAIN
+104123	muni_type	TOWN
+104259	muni_name	CHAMPLAIN
+104260	muni_name	CHAMPLAIN
+104285	muni_type	TOWN
 104377	muni_type	COUNTY
 104570	muni_name	CORTLANDVILLE
 104626	muni_name	CHESTER
+104636	muni_name	SPRINGVILLE
+104636	muni_type	VILLAGE
+104831	muni_type	TOWN
 104873	muni_name	LEWIS
+104913	muni_type	TOWN
+104914	muni_type	TOWN
 105053	muni_type	VILLAGE
+105231	muni_type	VILLAGE
 105261	muni_name	LEWIS
 105287	muni_type	COUNTY
 105289	doc_year	2017
@@ -737,49 +905,110 @@ sequence	field	new_value
 105932	muni_type	COUNTY
 105935	muni_name	RENSSELAERVILLE
 105950	muni_name	STAMFORD
+105955	muni_type	TOWN
+106008	muni_type	VILLAGE
 106174	muni_type	VILLAGE
 106211	muni_type	TOWN
 106240	muni_name	JEFFERSONVILLE
+106318	muni_name	ROCKLAND
 106337	muni_name	CLINTON
+106497	muni_type	TOWN
+106520	muni_type	TOWN
 106552	muni_name	CHESTER
 106655	muni_name	STAMFORD
+106726	muni_type	TOWN
+106868	muni_name	SPRINGVILLE
+106868	muni_type	VILLAGE
 106905	muni_name	CHESTER
+107066	muni_type	TOWN
+107260	muni_type	TOWN
+107271	muni_type	TOWN
 107274	muni_name	RENSSELAERVILLE
+107408	muni_type	VILLAGE
+107422	muni_name	WATERVLIET
+107595	muni_type	VILLAGE
 107616	muni_type	TOWN
+107937	muni_type	TOWN
+107982	muni_type	TOWN
+108192	muni_type	TOWN
+108332	muni_type	VILLAGE
 108407	muni_type	TOWN
+108525	muni_type	TOWN
 108652	muni_name	CLINTON
 108792	muni_type	TOWN
+109306	muni_type	VILLAGE
 109351	muni_type	TOWN
 109424	muni_name	CLINTON
+109438	muni_type	CITY
+109473	muni_type	VILLAGE
 109476	muni_type	VILLAGE
+109681	muni_type	TOWN
+109725	muni_name	HORNELL
 109950	muni_type	CITY
 110190	doc_year	2018
+110239	muni_type	TOWN
 110636	muni_type	TOWN
 110640	muni_type	VILLAGE
+111005	muni_type	VILLAGE
+111186	muni_name	ONTARIO
+111257	muni_type	VILLAGE
 111284	muni_name	ROCHESTER
 111315	muni_name	OPPENHEIM
 111315	muni_type	TOWN
+111335	muni_type	VILLAGE
+111342	muni_type	VILLAGE
+111353	muni_name	LOWVILLE
+111353	muni_type	VILLAGE
+111462	muni_name	COVERT
 111514	muni_name	OWEGO
 111523	muni_name	OTISVILLE
+111534	muni_type	VILLAGE
 111563	muni_type	VILLAGE
+111596	muni_type	TOWN
 111607	muni_name	GREENWICH
 111751	muni_type	TOWN
 111765	muni_type	VILLAGE
+111889	muni_type	VILLAGE
+111951	muni_type	VILLAGE
 112119	muni_name	ROCHESTER
+112155	muni_type	VILLAGE
 112248	muni_type	TOWN
 112276	muni_type	TOWN
+112279	muni_type	VILLAGE
 112449	muni_name	CLINTON
+112873	muni_type	VILLAGE
 112904	muni_name	MILAN
 112904	muni_type	TOWN
+112936	muni_name	NEW YORK
+113052	muni_type	VILLAGE
+113290	muni_type	VILLAGE
 113399	muni_type	COUNTY
+113442	muni_type	VILLAGE
 113453	muni_type	TOWN
+113525	muni_type	TOWN
+113539	muni_type	TOWN
+113781	muni_type	TOWN
+113830	muni_type	CITY
+113850	muni_name	FARMINGDALE
+114128	muni_type	CITY
 114134	muni_name	BALLSTON SPA
 114537	muni_type	VILLAGE
+114627	muni_type	TOWN
+114671	muni_name	ARCADE
+114847	muni_name	RYE
 114914	muni_type	CITY
+114928	muni_type	VILLAGE
 114938	muni_type	COUNTY
+115066	muni_name	MONTEBELLO
+115066	muni_type	VILLAGE
+115600	muni_name	FARMINGDALE
+115649	muni_type	VILLAGE
 115651	muni_name	MIDDLETOWN
 115652	muni_name	MIDDLETOWN
 116005	muni_type	TOWN
+116129	muni_type	TOWN
+116153	muni_name	LEWIS
+116153	muni_type	COUNTY
 116154	muni_name	HENDERSON
 116154	muni_type	TOWN
 116155	muni_name	CLINTON
@@ -792,34 +1021,78 @@ sequence	field	new_value
 117010	muni_name	FRANKLIN
 117153	muni_name	ROCHESTER
 117156	muni_name	LEWIS
+117174	muni_type	TOWN
 117255	muni_type	TOWN
 117380	muni_name	SCHODACK
+117398	muni_name	PEEKSKILL
+117402	muni_type	TOWN
+117631	muni_name	NEW YORK
 117785	muni_name	LEWIS
 118222	muni_name	MIDDLETOWN
+118268	muni_type	TOWN
+118297	muni_type	TOWN
+118311	muni_type	VILLAGE
+118351	muni_type	TOWN
 118367	muni_name	LEWIS
+118420	muni_type	VILLAGE
+118430	muni_type	TOWN
+118460	muni_type	TOWN
+118486	muni_name	ELLICOTT
 118544	muni_name	KINGS POINT
+118742	muni_name	WESTFIELD
+118787	muni_type	VILLAGE
+118831	muni_type	VILLAGE
+118842	muni_name	ESOPUS
+118863	muni_type	TOWN
+118867	muni_type	TOWN
 118897	muni_type	TOWN
+118903	muni_type	TOWN
 119043	muni_name	LEROY
 119101	muni_name	RYE BROOK
 119118	muni_name	CLINTON
 119244	muni_name	LEWIS
+119262	muni_name	ITHACA
+119495	muni_name	MOUNT VERNON
+119495	muni_type	CITY
 119498	muni_type	COUNTY
+119696	muni_name	SARATOGA
+119707	muni_name	SARATOGA
 119729	muni_name	CLINTON
 119742	muni_name	CLINTON
 119745	muni_name	ROCHESTER
+119934	muni_type	VILLAGE
+119993	muni_name	FARMINGTON
 120078	muni_type	COUNTY
+120098	muni_name	PORTER
+120102	muni_type	TOWN
+120186	muni_type	VILLAGE
 120365	muni_name	HIGHLAND FALLS
 120366	muni_name	HIGHLAND FALLS
+120422	muni_type	TOWN
 120482	muni_type	TOWN
+120497	muni_name	DUNDEE
+120572	muni_type	VILLAGE
 120647	muni_type	COUNTY
 120659	muni_name	CLINTON
+120677	muni_type	TOWN
+120734	muni_name	LAGRANGE
+120767	muni_name	BLOOMING GROVE
 120876	muni_type	COUNTY
 120910	muni_name	GREENWICH
 120947	muni_type	COUNTY
+120950	muni_type	TOWN
+120969	muni_type	TOWN
 121062	muni_name	FRANKLIN
 121086	muni_name	ROCHESTER
 121099	muni_name	OSSINING
 121139	muni_name	ROCHESTER
+121197	doc_subject	Adopting the Second Amendment Preservation Act
+121197	muni_name	MCGRAW
+121197	muni_type	VILLAGE
+121334	muni_type	VILLAGE
+121335	muni_type	VILLAGE
+121373	muni_name	GREEN ISLAND
+121469	muni_name	SCHUYLER
 121547	muni_name	GREENWICH
 121634	muni_name	ROCHESTER
 121829	muni_type	VILLAGE
@@ -859,6 +1132,7 @@ sequence	field	new_value
 121879	law_number	9
 121879	muni_name	Lewisboro
 121879	muni_type	Town
+121937	muni_type	VILLAGE
 121952	muni_name	ROCHESTER
 121997	muni_type	TOWN
 122123	muni_name	MIDDLETOWN
@@ -866,43 +1140,70 @@ sequence	field	new_value
 122273	muni_name	ROCHESTER
 122292	muni_name	CLINTON
 122299	muni_name	MIDDLETOWN
+122380	muni_type	TOWN
+122394	muni_name	DUNDEE
+122616	muni_type	CITY
+122631	muni_type	TOWN
 122651	muni_name	CLINTON
+122741	muni_type	VILLAGE
 122748	muni_name	ROCHESTER
 122879	muni_name	COLDSPRING
+122929	muni_type	TOWN
+122936	muni_type	VILLAGE
 122960	muni_type	TOWN
 123032	muni_name	LEWIS
+123054	muni_name	NEW YORK
+123055	muni_name	NEW YORK
+123058	muni_name	NEW YORK
 123069	muni_name	ONEIDA CASTLE
 123070	muni_name	ONEIDA CASTLE
+123294	muni_type	VILLAGE
 123468	muni_name	CHAUTAUQUA
+123504	muni_name	MOUNT PLEASANT
 123606	muni_type	TOWN
 123712	muni_type	COUNTY
+123744	muni_type	TOWN
 123889	muni_type	COUNTY
 123908	muni_name	GREAT VALLEY
 124153	muni_name	OGDENSBURG
 124164	muni_type	TOWN
 124279	muni_type	VILLAGE
 124350	muni_type	TOWN
+124452	muni_type	TOWN
 124494	muni_name	CLINTON
 124699	muni_name	MIDDLETOWN
+124766	muni_name	CHATHAM
 124961	muni_name	SARANAC
 124961	muni_type	TOWN
+125206	muni_type	TOWN
 125216	muni_name	DELAWARE
+125438	muni_name	MORAVIA
 125627	muni_type	VILLAGE
+125634	muni_type	VILLAGE
+125664	muni_type	VILLAGE
+125739	muni_type	TOWN
 125814	muni_name	ROCHESTER
 125817	muni_name	ROCHESTER
+126018	muni_type	TOWN
+126023	muni_type	TOWN
+126078	muni_type	TOWN
 126190	muni_name	ROCHESTER
 126191	muni_name	ROCHESTER
 126192	muni_name	ROCHESTER
 126240	muni_name	LEWIS
+126260	muni_type	TOWN
 126343	muni_type	TOWN
 126347	muni_type	COUNTY
+126397	muni_type	VILLAGE
 126548	muni_name	SCRIBA
 126591	muni_name	LEWIS
 126965	muni_type	COUNTY
 127036	muni_name	ROCHESTER
 127071	muni_name	ONEIDA CASTLE
 127072	muni_name	ONEIDA CASTLE
+127077	muni_type	VILLAGE
 127089	muni_name	WILLIAMSVILLE
+127102	muni_type	TOWN
 127142	muni_name	
 127142	muni_type	City
 127143	date_filed	2022-08-30
@@ -944,11 +1245,20 @@ sequence	field	new_value
 127150	muni_name	HASTINGS-ON-HUDSON
 127150	muni_type	VILLAGE
 127682	muni_name	ROCHESTER
+127713	muni_type	TOWN
+127821	muni_type	VILLAGE
+127827	muni_type	VILLAGE
 127933	muni_name	ROCHESTER
+128049	muni_name	NEWBURGH
+128160	muni_type	TOWN
+128161	muni_type	TOWN
+128408	muni_type	VILLAGE
+128411	muni_type	VILLAGE
 128463	muni_name	ROCHESTER
 128583	muni_name	CLINTON
 128714	muni_name	ROCHESTER
 128715	muni_name	ROCHESTER
+128717	muni_type	VILLAGE
 128731	muni_name	ROCHESTER
 128732	muni_name	ROCHESTER
 128761	muni_name	WILLIAMSVILLE
@@ -1003,11 +1313,17 @@ sequence	field	new_value
 128925	muni_type	Village
 129062	muni_type	TOWN
 129093	muni_type	COUNTY
+129211	muni_type	TOWN
+129281	muni_type	VILLAGE
+129297	muni_type	VILLAGE
 129382	muni_name	ROCHESTER
 129383	muni_name	ROCHESTER
 129441	muni_name	CLINTON
 129444	muni_type	COUNTY
+129633	muni_type	TOWN
 129782	muni_type	VILLAGE
+129785	muni_type	CITY
+129856	muni_name	PIERMONT
 129867	date_filed	2023-02-16
 129867	doc_year	2023
 129867	law_number	1
@@ -1027,29 +1343,53 @@ sequence	field	new_value
 129870	law_number	10
 129870	muni_name	Hempstead
 129870	muni_type	Town
+129951	muni_name	MASSENA
 130207	muni_name	TRUXTON
+130251	muni_type	TOWN
+130258	muni_type	TOWN
 130392	muni_type	COUNTY
+130522	muni_type	TOWN
+130530	muni_name	PIERMONT
+130530	muni_type	VILLAGE
+130777	muni_type	TOWN
+130794	muni_type	TOWN
+130874	muni_type	TOWN
 130969	muni_name	ROCHESTER
 130970	muni_name	ROCHESTER
 131125	muni_type	CITY
 131162	muni_type	TOWN
 131249	muni_type	TOWN
+131355	muni_type	VILLAGE
 131413	muni_name	ROCHESTER
 131434	muni_type	TOWN
 131495	muni_type	TOWN
+131558	muni_type	TOWN
 131760	muni_type	COUNTY
+131832	muni_type	TOWN
 131854	muni_name	COLDSPRING
 131919	muni_name	HAMLIN
+131971	muni_type	TOWN
 131978	muni_name	CLINTON
+132078	muni_type	VILLAGE
+132559	muni_type	VILLAGE
 132596	muni_name	ROCHESTER
+132617	muni_type	TOWN
+132651	muni_type	TOWN
 132702	muni_name	PALMYRA
+132903	muni_type	TOWN
+132905	muni_type	TOWN
+133014	muni_type	CITY
 133015	muni_name	ROCHESTER
+133054	muni_type	TOWN
 133184	muni_name	CLINTON
 133195	muni_name	ROCHESTER
 133258	muni_type	TOWN
 133272	muni_type	TOWN
 133300	muni_type	VILLAGE
 133729	muni_type	COUNTY
+133744	muni_type	TOWN
+133784	muni_name	FARMINGTON
+133900	muni_type	TOWN
 134045	date_filed	2023-11-17
 134045	doc_year	2023
 134045	law_number	1
@@ -1087,8 +1427,12 @@ sequence	field	new_value
 134051	muni_type	Town
 134116	muni_type	COUNTY
 134372	muni_type	VILLAGE
+134440	muni_type	VILLAGE
+134460	muni_name	ONEIDA
 134553	muni_type	TOWN
 134591	muni_type	TOWN
+134618	muni_type	VILLAGE
+134661	muni_type	CITY
 134760	muni_type	COUNTY
 134779	muni_name	OTEGO
 134846	muni_name	GREAT VALLEY
@@ -1099,6 +1443,10 @@ sequence	field	new_value
 135077	muni_type	COUNTY
 135126	muni_name	FRANKLIN (DELAWARE)
 135202	muni_name	MINOA
+135263	muni_type	VILLAGE
+135296	muni_type	VILLAGE
+135337	muni_name	SALEM
+135355	muni_name	THOMPSON
 135410	date_filed	2024-01-29
 135410	doc_year	2024
 135410	law_number	9
@@ -1133,25 +1481,43 @@ sequence	field	new_value
 135417	muni_name	New York
 135507	muni_name	DERING HARBOR
 135524	muni_type	VILLAGE
+135535	muni_type	TOWN
+135644	muni_type	VILLAGE
+135747	muni_type	VILLAGE
+135765	muni_name	POQUOTT
+135765	muni_type	VILLAGE
 135773	muni_name	OTEGO
 135806	muni_name	LEWIS
 135808	muni_type	VILLAGE
+135820	muni_type	TOWN
+135841	muni_name	PIERMONT
+135864	muni_type	TOWN
+135883	muni_type	VILLAGE
+135972	muni_name	DELAWARE
 136042	muni_type	VILLAGE
 136052	muni_type	VILLAGE
 136065	muni_name	SUFFOLK
 136065	muni_type	COUNTY
+136071	muni_name	ST. LAWRENCE
 136075	muni_name	FRANKLIN
 136080	muni_name	HORNELLSVILLE
+136082	muni_name	NORTH HAVEN
+136099	muni_type	VILLAGE
 136105	muni_name	ESSEX
+136217	muni_type	TOWN
 136230	muni_type	VILLAGE
 136300	muni_type	COUNTY
 136320	muni_type	VILLAGE
 136373	muni_name	COLDSPRING
+136380	muni_name	BRONXVILLE
 136395	muni_name	CLINTON
 136435	muni_type	TOWN
 136470	muni_name	DUNDEE
 136471	muni_name	TUXEDO PARK
 136584	muni_type	TOWN
+136589	muni_type	TOWN
+136705	muni_name	NORTH HAVEN
 136759	muni_type	COUNTY
 136843	muni_name	ST. LAWRENCE
 136843	muni_type	COUNTY
+136886	muni_type	VILLAGE

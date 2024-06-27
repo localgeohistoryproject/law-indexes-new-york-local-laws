@@ -59,7 +59,6 @@ Allen	Town	Allen	Town	978668
 ALLEN	TOWN	Allen	Town	978668
 Alma	Town	Alma	Town	978669
 ALMA	TOWN	Alma	Town	978669
-ALMA	VILLAGE	Alma	Town	978669
 Almond	Town	Almond	Town	978670
 Almond	Village	Almond	Village	2391510
 ALMOND	TOWN	Almond	Town	978670
@@ -81,9 +80,7 @@ Ames	Village	Ames	Village	2391513
 AMES	VILLAGE	Ames	Village	2391513
 Amherst	town	Amherst	Town	978675
 Amherst	Town	Amherst	Town	978675
-AMHERST	CITY	Amherst	Town	978675
 AMHERST	TOWN	Amherst	Town	978675
-AMHERST	VILLAGE	Amherst	Town	978675
 AMHERST  (CORRECTED COPY)	TOWN	Amherst	Town	978675
 Amity	Town	Amity	Town	978676
 AMITY	TOWN	Amity	Town	978676
@@ -105,7 +102,6 @@ ANDOVER	TOWN	Andover	Town	978681
 ANDOVER	VILLAGE	Andover	Village	2391515
 Angelica	Town	Angelica	Town	978682
 Angelica	Village	Angelica	Village	2391516
-ANGELICA		Angelica	Village	2391516
 ANGELICA	TOWN	Angelica	Town	978682
 ANGELICA	VILLAGE	Angelica	Village	2391516
 Angola	Village	Angola	Village	2391517
@@ -124,7 +120,6 @@ ARCADE	TOWN	Arcade	Town	978685
 ARCADE	VILLAGE	Arcade	Village	2391519
 Arcadia	Town	Arcadia	Town	978686
 ARCADIA	TOWN	Arcadia	Town	978686
-ARCADIA	VILLAGE	Arcadia	Town	978686
 Ardsley	Village	Ardsley	Village	2391523
 ARDSLEY	VILLAGE	Ardsley	Village	2391523
 Argyle	Town	Argyle	Town	978687
@@ -134,7 +129,6 @@ ARGYLE	VILLAGE	Argyle	Village	2391524
 Arietta	Town	Arietta	Town	978688
 ARIETTA	TOWN	Arietta	Town	978688
 Arkport	Village	Arkport	Village	2391525
-ARKPORT		Arkport	Village	2391525
 ARKPORT	VILLAGE	Arkport	Village	2391525
 ARKWIGHT	TOWN	Arkwright	Town	978689
 Arkwright	Town	Arkwright	Town	978689
@@ -149,7 +143,6 @@ Ashland (Chemung Co)	Town	Ashland	Town	978691
 ASHLAND (CHEMUNG COUNTY)	TOWN	Ashland	Town	978691
 ASHLAND (GREENE)	TOWN	Ashland	Town	978692
 Ashland (Greene Co)	Town	Ashland	Town	978692
-ASHLAND (GREENE COUNTY)	CITY	Ashland	Town	978692
 ASHLAND (GREENE COUNTY)	TOWN	Ashland	Town	978692
 athens	Village	Athens	Village	2391527
 Athens	Town	Athens	Town	978693
@@ -164,7 +157,6 @@ ATTICA	TOWN	Attica	Town	978694
 ATTICA	VILLAGE	Attica	Village	2391529
 Auburn	City	Auburn	City	978695
 AUBURN	CITY	Auburn	City	978695
-AUBURN	TOWN	Auburn	City	978695
 Augusta	Town	Augusta	Town	978696
 AUGUSTA	TOWN	Augusta	Town	978696
 Aurelius	Town	Aurelius	Town	978697
@@ -175,7 +167,6 @@ AURORA	TOWN	Aurora	Town	978698
 AURORA	VILLAGE	Aurora	Village	2391530
 Ausable	Town	AuSable	Town	978699
 AuSable	Town	AuSable	Town	978699
-AUSABLE	CITY	AuSable	Town	978699
 AUSABLE	TOWN	AuSable	Town	978699
 Austerlitz	Town	Austerlitz	Town	978700
 AUSTERLITZ	TOWN	Austerlitz	Town	978700
@@ -206,7 +197,6 @@ BALLLSTON	TOWN	Ballston	Town	978707
 Ballston	Town	Ballston	Town	978707
 BALLSTON	TOWN	Ballston	Town	978707
 Ballston Spa	Village	Ballston Spa	Village	2391536
-BALLSTON SPA	CITY	Ballston Spa	Village	2391536
 BALLSTON SPA	VILLAGE	Ballston Spa	Village	2391536
 BALSTON SPA	VILLAGE	Ballston Spa	Village	2391536
 Bangor	Town	Bangor	Town	978708
@@ -233,28 +223,22 @@ Bath	Village	Bath	Village	2391540
 BATH	TOWN	Bath	Town	978715
 BATH	VILLAGE	Bath	Village	2391540
 Baxter Estates	Village	Baxter Estates	Village	2391541
-BAXTER ESTATES	TOWN	Baxter Estates	Village	2391541
 BAXTER ESTATES	VILLAGE	Baxter Estates	Village	2391541
 Bayville	Village	Bayville	Village	2391542
 BAYVILLE	VILLAGE	Bayville	Village	2391542
 Beacon	City	Beacon	City	978716
 BEACON	CITY	Beacon	City	978716
-BEACON	TOWN	Beacon	City	978716
 Bedford	Town	Bedford	Town	978717
-BEDFORD	CITY	Bedford	Town	978717
 BEDFORD	TOWN	Bedford	Town	978717
 Beekman	Town	Beekman	Town	978718
 BEEKMAN	TOWN	Beekman	Town	978718
 Beekmantown	Town	Beekmantown	Town	978719
 BEEKMANTOWN	TOWN	Beekmantown	Town	978719
 Belfast	Town	Belfast	Town	978720
-BELFAST	CITY	Belfast	Town	978720
 BELFAST	TOWN	Belfast	Town	978720
-BELFAST	VILLAGE	Belfast	Town	978720
 Bellerose	Village	Bellerose	Village	2391545
 BELLEROSE	VILLAGE	Bellerose	Village	2391545
 Belle Terre	Village	Belle Terre	Village	2391544
-BELLE TERRE	CITY	Belle Terre	Village	2391544
 BELLE TERRE	VILLAGE	Belle Terre	Village	2391544
 BELLE TERRRE	VILLAGE	Belle Terre	Village	2391544
 Bellmont	Town	Bellmont	Town	978721
@@ -267,13 +251,11 @@ BELMONT	VILLAGE	Belmont	Village	2391547
 Bemus Point	Village	Bemus Point	Village	2391548
 BEMUS POINT	VILLAGE	Bemus Point	Village	2391548
 Bennington	Town	Bennington	Town	978722
-BENNINGTON	CITY	Bennington	Town	978722
 BENNINGTON	TOWN	Bennington	Town	978722
 Benson	Town	Benson	Town	978723
 BENSON	TOWN	Benson	Town	978723
 Benton	Town	Benton	Town	978724
 BENTON	TOWN	Benton	Town	978724
-BENTON	VILLAGE	Benton	Town	978724
 Bergen	Town	Bergen	Town	978725
 Bergen	Village	Bergen	Village	2391549
 BERGEN	TOWN	Bergen	Town	978725
@@ -285,13 +267,11 @@ BERLIN	TOWN	Berlin	Town	978727
 Berne	Town	Berne	Town	978728
 BERNE	TOWN	Berne	Town	978728
 Bethany	Town	Bethany	Town	978729
-BETHANY	CITY	Bethany	Town	978729
 BETHANY	TOWN	Bethany	Town	978729
 Bethel	Town	Bethel	Town	978730
 BETHEL	TOWN	Bethel	Town	978730
 BETHLEHAM	TOWN	Bethlehem	Town	978731
 Bethlehem	Town	Bethlehem	Town	978731
-BETHLEHEM	CITY	Bethlehem	Town	978731
 BETHLEHEM	TOWN	Bethlehem	Town	978731
 Big Flats	Town	Big Flats	Town	978732
 BIG FLATS	TOWN	Big Flats	Town	978732
@@ -302,7 +282,6 @@ BINGHAMTON	TOWN	Binghamton	Town	978734
 Birdsall	Town	Birdsall	Town	978735
 BIRDSALL	TOWN	Birdsall	Town	978735
 Black Brook	Town	Black Brook	Town	978736
-BLACK BROOK	CITY	Black Brook	Town	978736
 BLACK BROOK	TOWN	Black Brook	Town	978736
 Black River	Village	Black River	Village	2391551
 BLACK RIVER	VILLAGE	Black River	Village	2391551
@@ -313,7 +292,6 @@ BLEECKER	TOWN	Bleecker	Town	978737
 Blenheim	Town	Blenheim	Town	978738
 BLENHEIM	TOWN	Blenheim	Town	978738
 Bloomfield	Village	Bloomfield	Village	2391553
-BLOOMFIELD	TOWN	Bloomfield	Village	2391553
 BLOOMFIELD	VILLAGE	Bloomfield	Village	2391553
 Bloomingburg	Village	Bloomingburg	Village	2391554
 BLOOMINGBURG	VILLAGE	Bloomingburg	Village	2391554
@@ -325,7 +303,6 @@ Bolivar	Village	Bolivar	Village	2391555
 BOLIVAR	TOWN	Bolivar	Town	978740
 BOLIVAR	VILLAGE	Bolivar	Village	2391555
 Bolton	Town	Bolton	Town	978741
-BOLTON	CITY	Bolton	Town	978741
 BOLTON	TOWN	Bolton	Town	978741
 Bombay	Town	Bombay	Town	978742
 BOMBAY	TOWN	Bombay	Town	978742
@@ -351,7 +328,6 @@ BRANT	TOWN	Brant	Town	978749
 Brasher	Town	Brasher	Town	978750
 BRASHER	TOWN	Brasher	Town	978750
 Brewster	Village	Brewster	Village	2391557
-BREWSTER	TOWN	Brewster	Village	2391557
 BREWSTER	VILLAGE	Brewster	Village	2391557
 BRGHTWATER	VILLAGE	Brightwaters	Village	2391560
 Briarcliff Manor	Village	Briarcliff Manor	Village	2391558
@@ -369,7 +345,6 @@ BRIGHTON ( MONROE)	TOWN	Brighton	Town	978753
 BRIGHTON (MONROE)	TOWN	Brighton	Town	978753
 BRIGHTON(MONROE)	TOWN	Brighton	Town	978753
 Brighton (Monroe Co)	Town	Brighton	Town	978753
-BRIGHTON (MONROE COUNTY)	CITY	Brighton	Town	978753
 BRIGHTON (MONROE COUNTY)	TOWN	Brighton	Town	978753
 Brightwaters	Village	Brightwaters	Village	2391560
 BRIGHTWATERS	VILLAGE	Brightwaters	Village	2391560
@@ -401,7 +376,6 @@ BROOKHAVEN	TOWN	Brookhaven	Town	978758
 BROOKIHAVEN	TOWN	Brookhaven	Town	978758
 BROOKSVILLE	VILLAGE	Brookville	Village	2391565
 Brookville	Village	Brookville	Village	2391565
-BROOKVILLE	TOWN	Brookville	Village	2391565
 BROOKVILLE	VILLAGE	Brookville	Village	2391565
 Broome	County	Broome	County	974102
 Broome	Town	Broome	Town	978760
@@ -417,7 +391,6 @@ BRUNSWICK	TOWN	Brunswick	Town	978762
 Brushton	Village	Brushton	Village	2391567
 BRUSHTON	VILLAGE	Brushton	Village	2391567
 Brutus	Town	Brutus	Town	978763
-BRUTUS	CITY	Brutus	Town	978763
 BRUTUS	TOWN	Brutus	Town	978763
 Buchanan	Village	Buchanan	Village	2391568
 BUCHANAN	VILLAGE	Buchanan	Village	2391568
@@ -432,7 +405,6 @@ BURKE	VILLAGE	Burke	Village	2391570
 Burlington	Town	Burlington	Town	978766
 BURLINGTON	TOWN	Burlington	Town	978766
 Burns	Town	Burns	Town	978767
-BURNS	CITY	Burns	Town	978767
 BURNS	TOWN	Burns	Town	978767
 Busti	Town	Busti	Town	978768
 BUSTI	TOWN	Busti	Town	978768
@@ -443,9 +415,7 @@ BUTTERNUTS	TOWN	Butternuts	Town	978770
 Byron	Town	Byron	Town	978771
 BYRON	TOWN	Byron	Town	978771
 Cairo	Town	Cairo	Town	978772
-CAIRO	CITY	Cairo	Town	978772
 CAIRO	TOWN	Cairo	Town	978772
-CAIRO	VILLAGE	Cairo	Town	978772
 CAITLIN	TOWN	Catlin	Town	978800
 CALDEONIA	VILLAGE	Caledonia	Village	2391571
 Caledonia	Town	Caledonia	Town	978773
@@ -494,7 +464,6 @@ CANANDAIGUE	TOWN	Canandaigua	Town	978785
 Canaseraga	Village	Canaseraga	Village	2391576
 CANASERAGA	VILLAGE	Canaseraga	Village	2391576
 Canastota	Village	Canastota	Village	2391577
-CANASTOTA	CITY	Canastota	Village	2391577
 CANASTOTA	VILLAGE	Canastota	Village	2391577
 Candor	Town	Candor	Town	978786
 Candor	Village	Candor	Village	2391578
@@ -525,7 +494,6 @@ CAROGA	TOWN	Caroga	Town	978794
 Caroline	Town	Caroline	Town	978795
 CAROLINE	TOWN	Caroline	Town	978795
 Carroll	Town	Carroll	Town	978796
-CARROLL	COUNTY	Carroll	Town	978796
 CARROLL	TOWN	Carroll	Town	978796
 Carrollton	Town	Carrollton	Town	978797
 CARROLLTON	TOWN	Carrollton	Town	978797
@@ -546,7 +514,6 @@ Castorland	Village	Castorland	Village	2391586
 CASTORLAND	VILLAGE	Castorland	Village	2391586
 Catharine	Town	Catharine	Town	978799
 CATHARINE	TOWN	Catharine	Town	978799
-CATHARINE	VILLAGE	Catharine	Town	978799
 Catlin	Town	Catlin	Town	978800
 CATLIN	TOWN	Catlin	Town	978800
 Cato	Town	Cato	Town	978801
@@ -583,9 +550,6 @@ CAZENOVIA	TOWN	Cazenovia	Town	978806
 CAZENOVIA	VILLAGE	Cazenovia	Village	2391592
 CEADARHURST	VILLAGE	Cedarhurst	Village	2391593
 Cedarhurst	Village	Cedarhurst	Village	2391593
-CEDARHURST	CITY	Cedarhurst	Village	2391593
-CEDARHURST	COUNTY	Cedarhurst	Village	2391593
-CEDARHURST	TOWN	Cedarhurst	Village	2391593
 CEDARHURST	VILLAGE	Cedarhurst	Village	2391593
 Celeron	Village	Celoron	Village	2391594
 CELERON	VILLAGE	Celoron	Village	2391594
@@ -594,22 +558,18 @@ CELORON	VILLAGE	Celoron	Village	2391594
 Centerville	Town	Centerville	Town	978807
 CENTERVILLE	TOWN	Centerville	Town	978807
 Central Square	Village	Central Square	Village	2391595
-CENTRAL SQUARE	TOWN	Central Square	Village	2391595
 CENTRAL SQUARE	VILLAGE	Central Square	Village	2391595
 Centre Island	Village	Centre Island	Village	2391596
 CENTRE ISLAND	VILLAGE	Centre Island	Village	2391596
 Champion	Town	Champion	Town	978808
 CHAMPION	TOWN	Champion	Town	978808
-CHAMPION	VILLAGE	Champion	Town	978808
 Champlain	Town	Champlain	Town	978809
 Champlain	Village	Champlain	Village	2391597
 CHAMPLAIN	TOWN	Champlain	Town	978809
 CHAMPLAIN	VILLAGE	Champlain	Village	2391597
 Charleston	Town	Charleston	Town	978810
-CHARLESTON	COUNTY	Charleston	Town	978810
 CHARLESTON	TOWN	Charleston	Town	978810
 Charlotte	Town	Charlotte	Town	978811
-CHARLOTTE	COUNTY	Charlotte	Town	978811
 CHARLOTTE	TOWN	Charlotte	Town	978811
 Charlton	Town	Charlton	Town	978812
 CHARLTON	TOWN	Charlton	Town	978812
@@ -667,16 +627,12 @@ CHESTER(WARREN)	TOWN	Chester	Town	978823
 Chester (Warren Co)	Town	Chester	Town	978823
 CHESTER (WARREN COUNTY)	TOWN	Chester	Town	978823
 Chestnut Ridge	Village	Chestnut Ridge	Village	2391604
-CHESTNUT RIDGE	TOWN	Chestnut Ridge	Village	2391604
 CHESTNUT RIDGE	VILLAGE	Chestnut Ridge	Village	2391604
 Chili	Town	Chili	Town	978825
 CHILI	TOWN	Chili	Town	978825
 Chittenango	Village	Chittenango	Village	2391607
-CHITTENANGO		Chittenango	Village	2391607
 CHITTENANGO	VILLAGE	Chittenango	Village	2391607
 Churchville	Village	Churchville	Village	2391608
-CHURCHVILLE	CITY	Churchville	Village	2391608
-CHURCHVILLE	TOWN	Churchville	Village	2391608
 CHURCHVILLE	VILLAGE	Churchville	Village	2391608
 Cicero	Town	Cicero	Town	978826
 CICERO	TOWN	Cicero	Town	978826
@@ -685,7 +641,6 @@ CINCINNATUS	TOWN	Cincinnatus	Town	978827
 Clare	Town	Clare	Town	978828
 CLARE	TOWN	Clare	Town	978828
 Clarence	Town	Clarence	Town	978829
-CLARENCE	CITY	Clarence	Town	978829
 CLARENCE	TOWN	Clarence	Town	978829
 Clarendon	Town	Clarendon	Town	978830
 CLARENDON	TOWN	Clarendon	Town	978830
@@ -693,9 +648,7 @@ Clarkson	Town	Clarkson	Town	978831
 CLARKSON	TOWN	Clarkson	Town	978831
 Clarkstown	Town	Clarkstown	Town	978832
 Clarkstown	TOWN	Clarkstown	Town	978832
-CLARKSTOWN	CITY	Clarkstown	Town	978832
 CLARKSTOWN	TOWN	Clarkstown	Town	978832
-CLARKSTOWN	VILLAGE	Clarkstown	Town	978832
 CLARKSTOWN (ROCKLAND)	TOWN	Clarkstown	Town	978832
 CLARKSTOWN(ROCKLAND)	TOWN	Clarkstown	Town	978832
 Clarksville	Town	Clarksville	Town	978833
@@ -704,14 +657,12 @@ CLARVERACK	TOWN	Claverack	Town	978834
 Claverack	Town	Claverack	Town	978834
 CLAVERACK	TOWN	Claverack	Town	978834
 Clay	Town	Clay	Town	978835
-CLAY	COUNTY	Clay	Town	978835
 CLAY	TOWN	Clay	Town	978835
 Clayton	Town	Clayton	Town	978836
 Clayton	Village	Clayton	Village	2391609
 CLAYTON	TOWN	Clayton	Town	978836
 CLAYTON	VILLAGE	Clayton	Village	2391609
 Clayville	Village	Clayville	Village	2391610
-CLAYVILLE	COUNTY	Clayville	Village	2391610
 CLAYVILLE	VILLAGE	Clayville	Village	2391610
 Clermont	Town	Clermont	Town	978837
 CLERMONT	TOWN	Clermont	Town	978837
@@ -737,13 +688,11 @@ CLINTON (CLINTON COUNTY)	TOWN	Clinton	Town	978840
 CLINTON (DUTCHESS)	TOWN	Clinton	Town	978841
 Clinton (Dutchess Co	Town	Clinton	Town	978841
 Clinton (Dutchess Co)	Town	Clinton	Town	978841
-CLINTON (DUTCHESS COUNTY)	CITY	Clinton	Town	978841
 CLINTON (DUTCHESS COUNTY)	TOWN	Clinton	Town	978841
 CLINTON (ONEIDA COUNTY)	VILLAGE	Clinton	Village	2391614
 Clyde	Village	Clyde	Village	2391615
 CLYDE	VILLAGE	Clyde	Village	2391615
 Clymer	Town	Clymer	Town	978842
-CLYMER		Clymer	Town	978842
 CLYMER	TOWN	Clymer	Town	978842
 Cobleskill	Town	Cobleskill	Town	978843
 Cobleskill	TOWN	Cobleskill	Town	978843
@@ -767,7 +716,6 @@ Coldbrook	Village	Cold Brook	Village	2391618
 COLD BROOK	VILLAGE	Cold Brook	Village	2391618
 Colden	Town	Colden	Town	978849
 COLDEN	TOWN	Colden	Town	978849
-COLDEN	VILLAGE	Colden	Town	978849
 Coldspring	Town	Coldspring	Town	978850
 Cold Spring	Village	Cold Spring	Village	2391619
 COLD SPRING	VILLAGE	Cold Spring	Village	2391619
@@ -814,8 +762,6 @@ Constantia	Town	Constantia	Town	978864
 CONSTANTIA	TOWN	Constantia	Town	978864
 CONSTANTIE	TOWN	Constantia	Town	978864
 Cooperstown	Village	Cooperstown	Village	2391622
-COOPERSTOWN	CITY	Cooperstown	Village	2391622
-COOPERSTOWN	TOWN	Cooperstown	Village	2391622
 COOPERSTOWN	VILLAGE	Cooperstown	Village	2391622
 COOPERSTOWN`	VILLAGE	Cooperstown	Village	2391622
 Copake	Town	Copake	Town	978865
@@ -859,7 +805,6 @@ Cove Neck	Village	Cove Neck	Village	2391627
 COVE NECK	VILLAGE	Cove Neck	Village	2391627
 Coventry	Town	Coventry	Town	978873
 COVENTRY	TOWN	Coventry	Town	978873
-COVENTRY	VILLAGE	Coventry	Town	978873
 COVENTTY	TOWN	Coventry	Town	978873
 Covert	Town	Covert	Town	978874
 COVERT	TOWN	Covert	Town	978874
@@ -883,8 +828,6 @@ CROTON-ON0HUDSON	VILLAGE	Croton-on-Hudson	Village	2391630
 Croton on Hudson	Village	Croton-on-Hudson	Village	2391630
 Croton On Hudson	Village	Croton-on-Hudson	Village	2391630
 CROTON ON HUDSON	VILLAGE	Croton-on-Hudson	Village	2391630
-CROTON-ON-HUDSON	CITY	Croton-on-Hudson	Village	2391630
-CROTON-ON-HUDSON	TOWN	Croton-on-Hudson	Village	2391630
 CROTON-ON-HUDSON	VILLAGE	Croton-on-Hudson	Village	2391630
 Crown Point	Town	Crown Point	Town	978879
 CROWN POINT	TOWN	Crown Point	Town	978879
@@ -897,7 +840,6 @@ Cuyler	Town	Cuyler	Town	978881
 CUYLER	TOWN	Cuyler	Town	978881
 Daien	Town	Darien	Town	978886
 Danby	Town	Danby	Town	978882
-DANBY	CITY	Danby	Town	978882
 DANBY	TOWN	Danby	Town	978882
 DANNAMORA	TOWN	Dannemora	Town	978883
 Dannemora	Town	Dannemora	Town	978883
@@ -909,18 +851,14 @@ Dansville	Village	Dansville	Village	2391633
 DANSVILLE	TOWN	Dansville	Town	978884
 DANSVILLE	VILLAGE	Dansville	Village	2391633
 Danube	Town	Danube	Town	978885
-DANUBE	CITY	Danube	Town	978885
 DANUBE	TOWN	Danube	Town	978885
-DANUBE	VILLAGE	Danube	Town	978885
 Darien	Town	Darien	Town	978886
 DARIEN	TOWN	Darien	Town	978886
 Davenport	Town	Davenport	Town	978887
 DAVENPORT	TOWN	Davenport	Town	978887
 DAVENPORT    (CD FILED WITH LAW)	TOWN	Davenport	Town	978887
 Day	Town	Day	Town	978888
-DAY	CITY	Day	Town	978888
 DAY	TOWN	Day	Town	978888
-DAY	VILLAGE	Day	Town	978888
 Dayton	Town	Dayton	Town	978889
 DAYTON	TOWN	Dayton	Town	978889
 Decatur	Town	Decatur	Town	978890
@@ -934,7 +872,6 @@ DEERPARK	TOWN	Deerpark	Town	978892
 Deferiet	Village	Deferiet	Village	2391634
 DEFERIET	VILLAGE	Deferiet	Village	2391634
 DeKalb	Town	DeKalb	Town	978893
-DE KALB	COUNTY	DeKalb	Town	978893
 DE KALB	TOWN	DeKalb	Town	978893
 DEKALB	TOWN	DeKalb	Town	978893
 Delanson	Village	Delanson	Village	2391635
@@ -979,7 +916,6 @@ Dexter	Village	Dexter	Village	2391642
 DEXTER	VILLAGE	Dexter	Village	2391642
 Diana	Town	Diana	Town	978902
 DIANA	TOWN	Diana	Town	978902
-DIANA	VILLAGE	Diana	Town	978902
 DICKINSON (BROOME)	TOWN	Dickinson	Town	978903
 Dickinson (Broome Co)	Town	Dickinson	Town	978903
 Dickinson (Broome CO)	Town	Dickinson	Town	978903
@@ -1022,7 +958,6 @@ Dutchess	County	Dutchess	County	974112
 DUTCHESS	COUNTY	Dutchess	County	974112
 Eagle	Town	Eagle	Town	978914
 EAGLE	TOWN	Eagle	Town	978914
-EAGLE	VILLAGE	Eagle	Town	978914
 Earlville	Village	Earlville	Village	2391648
 EARLVILLE	village	Earlville	Village	2391648
 EARLVILLE	VILLAGE	Earlville	Village	2391648
@@ -1036,10 +971,8 @@ East Bloomfield	Village	East Bloomfield	Village	2391553
 EAST BLOOMFIELD	TOWN	East Bloomfield	Town	978915
 Eastchester	Town	Eastchester	Town	978916
 EASTCHESTER	TOWN	Eastchester	Town	978916
-EASTCHESTER	VILLAGE	Eastchester	Town	978916
 East Fishkill	Town	East Fishkill	Town	978917
 EAST FISHKILL	TOWN	East Fishkill	Town	978917
-East Greenbush		East Greenbush	Town	978918
 East Greenbush	Town	East Greenbush	Town	978918
 EAST GREENBUSH	TOWN	East Greenbush	Town	978918
 East Hampton	Town	East Hampton	Town	978919
@@ -1049,7 +982,6 @@ EAST HAMPTON	VILLAGE	East Hampton	Village	2391650
 EAST HAMTON	TOWN	East Hampton	Town	978919
 East Hills	Village	East Hills	Village	2391651
 East HIlls	Village	East Hills	Village	2391651
-EAST HILLS	TOWN	East Hills	Village	2391651
 EAST HILLS	VILLAGE	East Hills	Village	2391651
 East Nassau	Village	East Nassau	Village	2391652
 EAST NASSAU	VILLAGE	East Nassau	Village	2391652
@@ -1064,12 +996,9 @@ East Rochester	Village	East Rochester	Village	2391654
 EAST ROCHESTER	TOWN	East Rochester	Town	978922
 EAST ROCHESTER	VILLAGE	East Rochester	Village	2391654
 East Rockaway	Village	East Rockaway	Village	2391655
-EAST ROCKAWAY	TOWN	East Rockaway	Village	2391655
 EAST ROCKAWAY	VILLAGE	East Rockaway	Village	2391655
 EAST ROCKESTER	VILLAGE	East Rochester	Village	2391654
 East Syracuse	Village	East Syracuse	Village	2391656
-EAST SYRACUSE	CITY	East Syracuse	Village	2391656
-EAST SYRACUSE	TOWN	East Syracuse	Village	2391656
 EAST SYRACUSE	VILLAGE	East Syracuse	Village	2391656
 EAST WILLISOTN	VILLAGE	East Williston	Village	2391657
 East Williston	Village	East Williston	Village	2391657
@@ -1080,7 +1009,6 @@ Eaton	Town	Eaton	Town	978923
 EATON	TOWN	Eaton	Town	978923
 eden	Town	Eden	Town	978924
 Eden	Town	Eden	Town	978924
-Eden	Village	Eden	Town	978924
 EDEN	TOWN	Eden	Town	978924
 Edinburg	Town	Edinburg	Town	978925
 EDINBURG	TOWN	Edinburg	Town	978925
@@ -1105,7 +1033,6 @@ ELIZABETHTOWN	TOWN	Elizabethtown	Town	978930
 Ellenburg	Town	Ellenburg	Town	978931
 ELLENBURG	TOWN	Ellenburg	Town	978931
 Ellenville	Village	Ellenville	Village	2391661
-ELLENVILLE	CITY	Ellenville	Village	2391661
 ELLENVILLE	VILLAGE	Ellenville	Village	2391661
 Ellery	Town	Ellery	Town	978932
 ELLERY	TOWN	Ellery	Town	978932
@@ -1135,10 +1062,8 @@ ELMIRS HEIGHTS	VILLAGE	Elmira Heights	Village	2391664
 Elmsford	Village	Elmsford	Village	2391665
 ELMSFORD	VILLAGE	Elmsford	Village	2391665
 Endicott	Village	Endicott	Village	2391666
-ENDICOTT	TOWN	Endicott	Village	2391666
 ENDICOTT	VILLAGE	Endicott	Village	2391666
 Enfield	Town	Enfield	Town	978940
-ENFIELD	CITY	Enfield	Town	978940
 ENFIELD	TOWN	Enfield	Town	978940
 Ephratah	Town	Ephratah	Town	978941
 EPHRATAH	TOWN	Ephratah	Town	978941
@@ -1149,7 +1074,6 @@ ERIN	TOWN	Erin	Town	978942
 Erwin	Town	Erwin	Town	978943
 ERWIN	TOWN	Erwin	Town	978943
 Esopus	Town	Esopus	Town	978944
-ESOPUS	CITY	Esopus	Town	978944
 ESOPUS	TOWN	Esopus	Town	978944
 Esperance	Town	Esperance	Town	978945
 Esperance	Village	Esperance	Village	2390828
@@ -1175,11 +1099,9 @@ FABIUS	VILLAGE	Fabius	Village	2390830
 Fairfield	Town	Fairfield	Town	978950
 FAIRFIELD	TOWN	Fairfield	Town	978950
 Fair Haven	Village	Fair Haven	Village	2390831
-FAIR HAVEN	CITY	Fair Haven	Village	2390831
 FAIR HAVEN	VILLAGE	Fair Haven	Village	2390831
 FAIRPOORT	VILLAGE	Fairport	Village	2390832
 Fairport	Village	Fairport	Village	2390832
-FAIRPORT	TOWN	Fairport	Village	2390832
 FAIRPORT	VILLAGE	Fairport	Village	2390832
 Falconer	Village	Falconer	Village	2390833
 FALCONER	VILLAGE	Falconer	Village	2390833
@@ -1190,12 +1112,9 @@ FARMERSVILLE	TOWN	Farmersville	Town	978952
 FARMERSVILLE (CATTARAUGUS)	TOWN	Farmersville	Town	978952
 Farmingdale	Village	Farmingdale	Village	2390834
 FARMINGdale	VILLAGE	Farmingdale	Village	2390834
-FARMINGDALE	COUNTY	Farmingdale	Village	2390834
-FARMINGDALE	TOWN	Farmingdale	Village	2390834
 FARMINGDALE	VILLAGE	Farmingdale	Village	2390834
 Farmington	Town	Farmington	Town	978953
 FARMINGTON	TOWN	Farmington	Town	978953
-FARMINGTON	VILLAGE	Farmington	Town	978953
 FARMINGTON2023	TOWN	Farmington	Town	978953
 FARMINGTRON	TOWN	Farmington	Town	978953
 Farnham	Village	Farnham	Village	2390835
@@ -1223,7 +1142,6 @@ Fleming	Town	Fleming	Town	978959
 FLEMING	TOWN	Fleming	Town	978959
 Floral park	Village	Floral Park	Village	2390839
 Floral Park	Village	Floral Park	Village	2390839
-FLORAL PARK	COUNTY	Floral Park	Village	2390839
 FLORAL PARK	VILLAGE	Floral Park	Village	2390839
 Florence	Town	Florence	Town	978960
 FLORENCE	TOWN	Florence	Town	978960
@@ -1242,12 +1160,10 @@ FONDA	VILLAGE	Fonda	Village	2390842
 Forestburgh	Town	Forestburgh	Town	978963
 FORESTBURGH	TOWN	Forestburgh	Town	978963
 Forestport	Town	Forestport	Town	978964
-FORESTPORT	CITY	Forestport	Town	978964
 FORESTPORT	TOWN	Forestport	Town	978964
 FORESTUBRGH	TOWN	Forestburgh	Town	978963
 FORESTURGH	TOWN	Forestburgh	Town	978963
 Forestville	Village	Forestville	Village	2390843
-FORESTVILLE	CITY	Forestville	Village	2390843
 FORESTVILLE	VILLAGE	Forestville	Village	2390843
 Fort Ann	Town	Fort Ann	Town	978965
 Fort Ann	Village	Fort Ann	Village	2390844
@@ -1263,7 +1179,6 @@ FORT EDWARD	VILLAGE	Fort Edward	Village	2390845
 Fort Johnson	Village	Fort Johnson	Village	2390846
 FORT JOHNSON	VILLAGE	Fort Johnson	Village	2390846
 Fort Plain	Village	Fort Plain	Village	2390847
-FORT PLAIN	TOWN	Fort Plain	Village	2390847
 FORT PLAIN	VILLAGE	Fort Plain	Village	2390847
 Fowler	Town	Fowler	Town	978968
 FOWLER	TOWN	Fowler	Town	978968
@@ -1293,13 +1208,10 @@ Franklinville	Village	Franklinville	Village	2390850
 FRANKLINVILLE	TOWN	Franklinville	Town	978972
 FRANKLINVILLE	VILLAGE	Franklinville	Village	2390850
 Fredonia	Village	Fredonia	Village	2390851
-FREDONIA		Fredonia	Village	2390851
-FREDONIA	TOWN	Fredonia	Village	2390851
 FREDONIA	VILLAGE	Fredonia	Village	2390851
 Freedom	Town	Freedom	Town	978973
 FREEDOM	TOWN	Freedom	Town	978973
 Freeport	Village	Freeport	Village	2390852
-FREEPORT	TOWN	Freeport	Village	2390852
 FREEPORT	VILLAGE	Freeport	Village	2390852
 Freetown	Town	Freetown	Town	978974
 FREETOWN	TOWN	Freetown	Town	978974
@@ -1362,7 +1274,6 @@ Genesee	Town	Genesee	Town	978989
 GENESEE	COUNTY	Genesee	County	974117
 GENESEE	TOWN	Genesee	Town	978989
 Genesee Falls	Town	Genesee Falls	Town	978990
-GENESEE FALLS	CITY	Genesee Falls	Town	978990
 GENESEE FALLS	TOWN	Genesee Falls	Town	978990
 Geneseo	Town	Geneseo	Town	978991
 Geneseo	Village	Geneseo	Village	2390858
@@ -1400,12 +1311,9 @@ Glen Park	Village	Glen Park	Village	2390860
 GLEN PARK	VILLAGE	Glen Park	Village	2390860
 Glens Falls	City	Glens Falls	City	979004
 GLENS FALLS	CITY	Glens Falls	City	979004
-GLENS FALLS	VILLAGE	Glens Falls	City	979004
 GLENT	TOWN	Glen	Town	979002
 Glenville	Town	Glenville	Town	979005
-GLENVILLE	CITY	Glenville	Town	979005
 GLENVILLE	TOWN	Glenville	Town	979005
-GLENVILLE	VILLAGE	Glenville	Town	979005
 Gloversville	City	Gloversville	City	979006
 GLOVERSVILLE	CITY	Gloversville	City	979006
 Gorham	Town	Gorham	Town	979007
@@ -1427,7 +1335,6 @@ Granby	Town	Granby	Town	979011
 GRANBY	TOWN	Granby	Town	979011
 Grand Island	Town	Grand Island	Town	979012
 GRAND ISLAND	TOWN	Grand Island	Town	979012
-GRAND ISLAND	VILLAGE	Grand Island	Town	979012
 grandview on Hudson	Village	Grand View-on-Hudson	Village	2390864
 Grandview on Hudson	Village	Grand View-on-Hudson	Village	2390864
 GrandView on Hudson	Village	Grand View-on-Hudson	Village	2390864
@@ -1443,7 +1350,6 @@ GRANVILLE	VILLAGE	Granville	Village	2390865
 Great Neck	Village	Great Neck	Village	2390866
 GREAT NECK	VILLAGE	Great Neck	Village	2390866
 Great Neck Estates	Village	Great Neck Estates	Village	2390867
-GREAT NECK ESTATES	CITY	Great Neck Estates	Village	2390867
 GREAT NECK ESTATES	VILLAGE	Great Neck Estates	Village	2390867
 GREAT NECK ESTATEX	VILLAGE	Great Neck Estates	Village	2390867
 Great Neck Plaza	Village	Great Neck Plaza	Village	2390868
@@ -1452,9 +1358,7 @@ Great Valley	Town	Great Valley	Town	979015
 GREAT VALLEY	TOWN	Great Valley	Town	979015
 Greece	Town	Greece	Town	979016
 GREECE	TOWN	Greece	Town	979016
-GREECE	VILLAGE	Greece	Town	979016
 Greenburgh	Town	Greenburgh	Town	979017
-GREENBURGH	CITY	Greenburgh	Town	979017
 GREENBURGH	TOWN	Greenburgh	Town	979017
 Greene	County	Greene	County	974118
 Greene	Town	Greene	Town	979018
@@ -1463,7 +1367,6 @@ GREENE	COUNTY	Greene	County	974118
 GREENE	TOWN	Greene	Town	979018
 GREENE	VILLAGE	Greene	Village	2390870
 Greenfield	Town	Greenfield	Town	979019
-GREENFIELD	CITY	Greenfield	Town	979019
 GREENFIELD	TOWN	Greenfield	Town	979019
 Green Island	Town	Green Island	Town	979020
 Green Island	Village	Green Island	Village	2390869
@@ -1477,7 +1380,6 @@ GREENVILLE (GREENE	TOWN	Greenville	Town	979022
 GREENVILLE (GREENE)	TOWN	Greenville	Town	979022
 Greenville (Greene Co)	Town	Greenville	Town	979022
 GREENVILLE (GREENE COUNTY)	TOWN	Greenville	Town	979022
-GREENVILLE (GREENE COUNTY)	VILLAGE	Greenville	Town	979022
 GREENVILLE (ORANGE)	TOWN	Greenville	Town	979023
 Greenville (Orange C	Town	Greenville	Town	979023
 GREENVILLE (ORANGE COUNTY)	TOWN	Greenville	Town	979023
@@ -1507,7 +1409,6 @@ Guilford	Town	Guilford	Town	979031
 GUILFORD	TOWN	Guilford	Town	979031
 hadley	Town	Hadley	Town	979032
 Hadley	Town	Hadley	Town	979032
-HADLEY	COUNTY	Hadley	Town	979032
 HADLEY	TOWN	Hadley	Town	979032
 Hagaman	Village	Hagaman	Village	2390875
 HAGAMAN	VILLAGE	Hagaman	Village	2390875
@@ -1517,7 +1418,6 @@ Halcott	Town	Halcott	Town	979034
 HALCOTT	TOWN	Halcott	Town	979034
 Halfmoon	Town	Halfmoon	Town	979035
 HALFMOON	TOWN	Halfmoon	Town	979035
-HALFMOON	VILLAGE	Halfmoon	Town	979035
 Hamburg	Town	Hamburg	Town	979036
 Hamburg	Village	Hamburg	Village	2390876
 HAMBURG	TOWN	Hamburg	Town	979036
@@ -1531,7 +1431,6 @@ HAMILTON	COUNTY	Hamilton	County	974119
 HAMILTON	TOWN	Hamilton	Town	979038
 HAMILTON	VILLAGE	Hamilton	Village	2390877
 Hamlin	Town	Hamlin	Town	979039
-HAMLIN	CITY	Hamlin	Town	979039
 HAMLIN	TOWN	Hamlin	Town	979039
 HAMMIBAL	TOWN	Hannibal	Town	979044
 Hammond	Town	Hammond	Town	979040
@@ -1557,7 +1456,6 @@ HANNIBAL	VILLAGE	Hannibal	Village	2390881
 Hanover	Town	Hanover	Town	979045
 HANOVER	TOWN	Hanover	Town	979045
 Hardenburgh	Town	Hardenburgh	Town	979046
-HARDENBURGH	CITY	Hardenburgh	Town	979046
 HARDENBURGH	TOWN	Hardenburgh	Town	979046
 harford	Town	Harford	Town	979047
 Harford	Town	Harford	Town	979047
@@ -1567,11 +1465,8 @@ HARMONY	TOWN	Harmony	Town	979048
 Harpersfield	Town	Harpersfield	Town	979049
 HARPERSFIELD	TOWN	Harpersfield	Town	979049
 Harrietstown	Town	Harrietstown	Town	979050
-HARRIETSTOWN	CITY	Harrietstown	Town	979050
 HARRIETSTOWN	TOWN	Harrietstown	Town	979050
 Harriman	Village	Harriman	Village	2390882
-HARRIMAN	COUNTY	Harriman	Village	2390882
-HARRIMAN	TOWN	Harriman	Village	2390882
 HARRIMAN	VILLAGE	Harriman	Village	2390882
 Harrisburg	Town	Harrisburg	Town	979051
 HARRISBURG	TOWN	Harrisburg	Town	979051
@@ -1624,7 +1519,6 @@ HENDERSON	TOWN	Henderson	Town	979062
 HENRIETT	TOWN	Henrietta	Town	979063
 henrietta	Town	Henrietta	Town	979063
 Henrietta	Town	Henrietta	Town	979063
-HENRIETTA	CITY	Henrietta	Town	979063
 HENRIETTA	TOWN	Henrietta	Town	979063
 Herkimer	County	Herkimer	County	974120
 Herkimer	Town	Herkimer	Town	979064
@@ -1650,7 +1544,6 @@ HEWLETT NECK	VILLAGE	Hewlett Neck	Village	2390895
 Highland	Town	Highland	Town	979066
 HIGHLAND	TOWN	Highland	Town	979066
 Highland Falls	Village	Highland Falls	Village	2390896
-HIGHLAND FALLS	TOWN	Highland Falls	Village	2390896
 HIGHLAND FALLS	VILLAGE	Highland Falls	Village	2390896
 HIGHLANDS	TOWN	Highlands	Town	979067
 HIGHLANDS FALLS	VILLAGE	Highland Falls	Village	2390896
@@ -1665,7 +1558,6 @@ HILLBURN	VILLAGE	Hillburn	Village	2390897
 Hillsdale	Town	Hillsdale	Town	979068
 HILLSDALE	TOWN	Hillsdale	Town	979068
 Hilton	Village	Hilton	Village	2390898
-HILTON	TOWN	Hilton	Village	2390898
 HILTON	VILLAGE	Hilton	Village	2390898
 Hinsdale	Town	Hinsdale	Town	979069
 HINSDALE	TOWN	Hinsdale	Town	979069
@@ -1740,7 +1632,6 @@ HYDE PARK	TOWN	Hyde Park	Town	979090
 IHACA	CITY	Ithaca	City	979099
 IITHACA	TOWN	Ithaca	Town	979100
 Ilion	Village	Ilion	Village	2390909
-ILION	TOWN	Ilion	Village	2390909
 ILION	VILLAGE	Ilion	Village	2390909
 Independence	Town	Independence	Town	979091
 INDEPENDENCE	TOWN	Independence	Town	979091
@@ -1753,13 +1644,11 @@ Interlaken	Village	Interlaken	Village	2390910
 INTERLAKEN	VILLAGE	Interlaken	Village	2390910
 INVINGTON	VILLAGE	Irvington	Village	2390911
 Ira	Town	Ira	Town	979094
-IRA	CITY	Ira	Town	979094
 IRA	TOWN	Ira	Town	979094
 Irondequoit	Town	Irondequoit	Town	979095
 IRONDEQUOIT	TOWN	Irondequoit	Town	979095
 IRONDEUIOIT	TOWN	Irondequoit	Town	979095
 Irvington	Village	Irvington	Village	2390911
-IRVINGTON	CITY	Irvington	Village	2390911
 IRVINGTON	VILLAGE	Irvington	Village	2390911
 Ischua	Town	Ischua	Town	979096
 ISCHUA	TOWN	Ischua	Town	979096
@@ -1767,13 +1656,11 @@ ISHUA	TOWN	Ischua	Town	979096
 Islandia	Village	Islandia	Village	2390913
 ISLANDIA	VILLAGE	Islandia	Village	2390913
 Island Park	Village	Island Park	Village	2390912
-ISLAND PARK	TOWN	Island Park	Village	2390912
 ISLAND PARK	VILLAGE	Island Park	Village	2390912
 Islip	Town	Islip	Town	979097
 ISLIP	TOWN	Islip	Town	979097
 ITACA	CITY	Ithaca	City	979099
 Italy	Town	Italy	Town	979098
-ITALY	CITY	Italy	Town	979098
 ITALY	TOWN	Italy	Town	979098
 Ithaca	City	Ithaca	City	979099
 Ithaca	Town	Ithaca	Town	979100
@@ -1797,14 +1684,12 @@ JEFFERSON	TOWN	Jefferson	Town	979106
 Jeffersonville	Village	Jeffersonville	Village	2390914
 JEFFERSONVILLE	VILLAGE	Jeffersonville	Village	2390914
 Jerusalem	Town	Jerusalem	Town	979107
-JERUSALEM	CITY	Jerusalem	Town	979107
 JERUSALEM	TOWN	Jerusalem	Town	979107
 Jewett	Town	Jewett	Town	979108
 JEWETT	TOWN	Jewett	Town	979108
 Johnsburg	Town	Johnsburg	Town	979109
 JOHNSBURG	TOWN	Johnsburg	Town	979109
 Johnson City	Village	Johnson City	Village	2390915
-JOHNSON CITY	CITY	Johnson City	Village	2390915
 JOHNSON CITY	VILLAGE	Johnson City	Village	2390915
 Johnstown	City	Johnstown	City	979110
 Johnstown	Town	Johnstown	Town	979111
@@ -1830,7 +1715,6 @@ KENSINGTON	VILLAGE	Kensington	Village	2390920
 kent	Town	Kent	Town	979740
 Kent	Town	Kent	Town	979740
 KENT	TOWN	Kent	Town	979740
-KENT	VILLAGE	Kent	Town	979740
 Kiantone	Town	Kiantone	Town	979115
 KIANTONE	TOWN	Kiantone	Town	979115
 Kinderhook	Town	Kinderhook	Town	979116
@@ -1841,9 +1725,6 @@ KINGERHOOK	VILLAGE	Kinderhook	Village	2390921
 Kingsbury	Town	Kingsbury	Town	979117
 KINGSBURY	TOWN	Kingsbury	Town	979117
 Kings Point	Village	Kings Point	Village	2390922
-KINGS POINT	CITY	Kings Point	Village	2390922
-KINGS POINT	COUNTY	Kings Point	Village	2390922
-KINGS POINT	TOWN	Kings Point	Village	2390922
 KINGS POINT	VILLAGE	Kings Point	Village	2390922
 Kingston	City	Kingston	City	979118
 Kingston	Town	Kingston	Town	979119
@@ -1851,11 +1732,9 @@ KINGSTON	CITY	Kingston	City	979118
 KINGSTON	TOWN	Kingston	Town	979119
 Kirkland	Town	Kirkland	Town	979120
 KIrkland	Town	Kirkland	Town	979120
-KIRKLAND	CITY	Kirkland	Town	979120
 KIRKLAND	TOWN	Kirkland	Town	979120
 Kirkwood	Town	Kirkwood	Town	979121
 KIRKWOOD	TOWN	Kirkwood	Town	979121
-KIRKWOOD	VILLAGE	Kirkwood	Town	979121
 Kiryas Joel	Village	Kiryas Joel	Village	2390923
 KIRYAS JOEL	VILLAGE	Kiryas Joel	Village	2390923
 Knox	Town	Knox	Town	979122
@@ -1870,7 +1749,6 @@ LACONA	VILLAGE	Lacona	Village	2390924
 LACONS	VILLAGE	Lacona	Village	2390924
 laFayette	Town	LaFayette	Town	979125
 LaFayette	Town	LaFayette	Town	979125
-LA FAYETTE	CITY	LaFayette	Town	979125
 LA FAYETTE	TOWN	LaFayette	Town	979125
 LAFAYETTE	TOWN	LaFayette	Town	979125
 Lagrange	Town	LaGrange	Town	979126
@@ -1885,8 +1763,6 @@ LAKE GEORGE	TOWN	Lake George	Town	979127
 LAKE GEORGE	VILLAGE	Lake George	Village	2390925
 lake Grove	Village	Lake Grove	Village	2390926
 Lake Grove	Village	Lake Grove	Village	2390926
-LAKE GROVE	CITY	Lake Grove	Village	2390926
-LAKE GROVE	TOWN	Lake Grove	Village	2390926
 LAKE GROVE	VILLAGE	Lake Grove	Village	2390926
 Lake Luzerne	Town	Lake Luzerne	Town	979128
 LAKE LUZERNE	TOWN	Lake Luzerne	Town	979128
@@ -1896,7 +1772,6 @@ LAKE PLACID	VILLAGE	Lake Placid	Village	2390927
 Lake Pleasant	Town	Lake Pleasant	Town	979129
 LAKE PLEASANT	TOWN	Lake Pleasant	Town	979129
 Lake Success	Village	Lake Success	Village	2390928
-LAKE SUCCESS	TOWN	Lake Success	Village	2390928
 LAKE SUCCESS	VILLAGE	Lake Success	Village	2390928
 Lakewood	Village	Lakewood	Village	2390929
 LAKEWOOD	VILLAGE	Lakewood	Village	2390929
@@ -1909,9 +1784,7 @@ Lansing	Village	Lansing	Village	2390931
 LANSING	TOWN	Lansing	Town	979131
 LANSING	VILLAGE	Lansing	Village	2390931
 Lapeer	Town	Lapeer	Town	979132
-LAPEER	CITY	Lapeer	Town	979132
 LAPEER	TOWN	Lapeer	Town	979132
-Larchmont	Town	Larchmont	Village	2390932
 Larchmont	Village	Larchmont	Village	2390932
 LARCHMONT	VILLAGE	Larchmont	Village	2390932
 lattingtown	Village	Lattingtown	Village	2390933
@@ -1919,7 +1792,6 @@ Lattingtown	Village	Lattingtown	Village	2390933
 LATTINGTOWN	VILLAGE	Lattingtown	Village	2390933
 LAUEL HOLLOW	VILLAGE	Laurel Hollow	Village	2390934
 Laurel Hollow	Village	Laurel Hollow	Village	2390934
-LAUREL HOLLOW	TOWN	Laurel Hollow	Village	2390934
 LAUREL HOLLOW	VILLAGE	Laurel Hollow	Village	2390934
 Laurens	Town	Laurens	Town	979133
 Laurens	Village	Laurens	Village	2390935
@@ -1946,7 +1818,6 @@ Lenox	Town	Lenox	Town	979139
 LENOX	TOWN	Lenox	Town	979139
 Leon	Town	Leon	Town	979140
 LEON	TOWN	Leon	Town	979140
-LE RAY	CITY	LeRay	Town	979141
 LE RAY	TOWN	LeRay	Town	979141
 LERAY	TOWN	LeRay	Town	979141
 LeRay (Jefferson Co)	Town	LeRay	Town	979141
@@ -1963,13 +1834,11 @@ Lewis	County	Lewis	County	974123
 LEWIS	COUNTY	Lewis	County	974123
 Lewisboro	Town	Lewisboro	Town	979145
 LEWISBORO	TOWN	Lewisboro	Town	979145
-LEWISBORO	VILLAGE	Lewisboro	Town	979145
 LEWIS (ESSEX)	TOWN	Lewis	Town	979143
 Lewis (Essex Co)	Town	Lewis	Town	979143
 LEWIS (ESSEX COUNTY)	TOWN	Lewis	Town	979143
 Lewis (Lewis Co)	Town	Lewis	Town	979144
 LEWIS (LEWIS CO)	TOWN	Lewis	Town	979144
-LEWIS (LEWIS COUNTY)	CITY	Lewis	Town	979144
 LEWIS (LEWIS COUNTY)	COUNTY	Lewis	County	974123
 LEWIS (LEWIS COUNTY)	TOWN	Lewis	Town	979144
 Lewiston	Town	Lewiston	Town	979146
@@ -1979,7 +1848,6 @@ LEWISTON	VILLAGE	Lewiston	Village	2390939
 LEWSIBORO	TOWN	Lewisboro	Town	979145
 Lexington	Town	Lexington	Town	979147
 LEXINGTON	TOWN	Lexington	Town	979147
-LEXINGTON	VILLAGE	Lexington	Town	979147
 Leyden	Town	Leyden	Town	979148
 LEYDEN	TOWN	Leyden	Town	979148
 Liberty	Town	Liberty	Town	979149
@@ -1999,7 +1867,6 @@ LINCOLM	TOWN	Lincoln	Town	979152
 Lincoln	Town	Lincoln	Town	979152
 LINCOLN	TOWN	Lincoln	Town	979152
 Lindenhurst	Village	Lindenhurst	Village	2390943
-LINDENHURST	CITY	Lindenhurst	Village	2390943
 LINDENHURST	VILLAGE	Lindenhurst	Village	2390943
 LINDERHURST	VILLAGE	Lindenhurst	Village	2390943
 LINDLAY	TOWN	Lindley	Town	979153
@@ -2022,7 +1889,6 @@ Little Valley	Village	Little Valley	Village	2390945
 LITTLE VALLEY	TOWN	Little Valley	Town	979159
 LITTLE VALLEY	VILLAGE	Little Valley	Village	2390945
 Liverpool	Village	Liverpool	Village	2390946
-LIVERPOOL	TOWN	Liverpool	Village	2390946
 LIVERPOOL	VILLAGE	Liverpool	Village	2390946
 Livingston	County	Livingston	County	974124
 Livingston	Town	Livingston	Town	979160
@@ -2087,7 +1953,6 @@ LYONSDALE	TOWN	Lyonsdale	Town	979176
 Lyons Falls	Village	Lyons Falls	Village	2390954
 LYONS FALLS	VILLAGE	Lyons Falls	Village	2390954
 Lysander	Town	Lysander	Town	979177
-LYSANDER	CITY	Lysander	Town	979177
 LYSANDER	TOWN	Lysander	Town	979177
 LYSANDER (ONDONDAGA)	TOWN	Lysander	Town	979177
 LYSANDER (ONONDAGA)	TOWN	Lysander	Town	979177
@@ -2117,7 +1982,6 @@ MALONE	TOWN	Malone	Town	979185
 MALONE	VILLAGE	Malone	Village	2390957
 Malta	Town	Malta	Town	979186
 MALTA	TOWN	Malta	Town	979186
-MALTA	VILLAGE	Malta	Town	979186
 Malverne	Village	Malverne	Village	2390958
 MALVERNE	VILLAGE	Malverne	Village	2390958
 Mamakating	Town	Mamakating	Town	979187
@@ -2160,14 +2024,11 @@ Marcellus	Village	Marcellus	Village	2390965
 MARCELLUS	TOWN	Marcellus	Town	979196
 MARCELLUS	VILLAGE	Marcellus	Village	2390965
 Marcy	Town	Marcy	Town	979197
-MARCY	CITY	Marcy	Town	979197
 MARCY	TOWN	Marcy	Town	979197
 Margaretville	Village	Margaretville	Village	2390966
 MARGARETVILLE	VILLAGE	Margaretville	Village	2390966
 Marilla	Town	Marilla	Town	979198
-MARILLA		Marilla	Town	979198
 MARILLA	TOWN	Marilla	Town	979198
-MARILLA	VILLAGE	Marilla	Town	979198
 MARILLE	TOWN	Marilla	Town	979198
 Marion	Town	Marion	Town	979199
 MARION	TOWN	Marion	Town	979199
@@ -2182,7 +2043,6 @@ Maryland	Town	Maryland	Town	979203
 MARYLAND	TOWN	Maryland	Town	979203
 Masonville	Town	Masonville	Town	979204
 MASONVILLE	TOWN	Masonville	Town	979204
-MASONVILLE	VILLAGE	Masonville	Town	979204
 Massapequa park	Village	Massapequa Park	Village	2390968
 Massapequa Park	Village	Massapequa Park	Village	2390968
 MASSAPEQUA PARK	VILLAGE	Massapequa Park	Village	2390968
@@ -2191,7 +2051,6 @@ Massena	Village	Massena	Village	2390969
 MASSENA	TOWN	Massena	Town	979205
 MASSENA	VILLAGE	Massena	Village	2390969
 MASTIC  BEACH	VILLAGE	Mastic Beach	Village	2680279
-MASTIC BEACH	TOWN	Mastic Beach	Village	2680279
 MASTIC BEACH	VILLAGE	Mastic Beach	Village	2680279
 Matinecock	Village	Matinecock	Village	2390970
 MATINECOCK	VILLAGE	Matinecock	Village	2390970
@@ -2206,16 +2065,12 @@ MAYVILLE	VILLAGE	Mayville	Village	2390973
 McDonough	Town	McDonough	Town	979178
 MCDONOUGH	TOWN	McDonough	Town	979178
 McGraw	Village	McGraw	Village	2390974
-MCGRAW	CITY	McGraw	Village	2390974
 MCGRAW	VILLAGE	McGraw	Village	2390974
 Mechanicville	City	Mechanicville	City	979207
 MECHANICVILLE	CITY	Mechanicville	City	979207
-MECHANICVILLE	VILLAGE	Mechanicville	City	979207
 Medina	Village	Medina	Village	2390975
-MEDINA	COUNTY	Medina	Village	2390975
 MEDINA	VILLAGE	Medina	Village	2390975
 Menands	Village	Menands	Village	2390976
-MENANDS	CITY	Menands	Village	2390976
 MENANDS	VILLAGE	Menands	Village	2390976
 MENDEN	TOWN	Mendon	Town	979208
 Mendon	Town	Mendon	Town	979208
@@ -2224,10 +2079,8 @@ Mentz	Town	Mentz	Town	979209
 MENTZ	TOWN	Mentz	Town	979209
 Meredith	Town	Meredith	Town	979210
 MEREDITH	TOWN	Meredith	Town	979210
-MEREDITH	VILLAGE	Meredith	Town	979210
 MERIDAN	VILLAGE	Meridian	Village	2390977
 Meridian	Village	Meridian	Village	2390977
-MERIDIAN	CITY	Meridian	Village	2390977
 MERIDIAN	VILLAGE	Meridian	Village	2390977
 Mexico	Town	Mexico	Town	979211
 Mexico	Village	Mexico	Village	2390978
@@ -2268,14 +2121,12 @@ Millerton	Village	Millerton	Village	2390985
 MILLERTON	VILLAGE	Millerton	Village	2390985
 Mill Neck	Village	Mill Neck	Village	2390983
 MILL neck	VILLAGE	Mill Neck	Village	2390983
-MILL NECK	CITY	Mill Neck	Village	2390983
 MILL NECK	VILLAGE	Mill Neck	Village	2390983
 Millport	Village	Millport	Village	2390986
 MILLPORT	VILLAGE	Millport	Village	2390986
 Milo	Town	Milo	Town	979220
 MILO	TOWN	Milo	Town	979220
 Milton	Town	Milton	Town	979221
-MILTON	CITY	Milton	Town	979221
 MILTON	TOWN	Milton	Town	979221
 Mina	Town	Mina	Town	979222
 MINA	TOWN	Mina	Town	979222
@@ -2286,7 +2137,6 @@ MINEOLA	VILLAGE	Mineola	Village	2390987
 Minerva	Town	Minerva	Town	979224
 MINERVA	TOWN	Minerva	Town	979224
 Minetto	Town	Minetto	Town	979225
-MINETTO	CITY	Minetto	Town	979225
 MINETTO	TOWN	Minetto	Town	979225
 Minisink	Town	Minisink	Town	979226
 MINISINK	TOWN	Minisink	Town	979226
@@ -2331,13 +2181,11 @@ Moravia	Village	Moravia	Village	2390995
 MORAVIA	TOWN	Moravia	Town	979235
 MORAVIA	VILLAGE	Moravia	Village	2390995
 Moreau	Town	Moreau	Town	979236
-MOREAU	CITY	Moreau	Town	979236
 MOREAU	TOWN	Moreau	Town	979236
 MOREAUI	TOWN	Moreau	Town	979236
 Morehouse	Town	Morehouse	Town	979237
 MOREHOUSE	TOWN	Morehouse	Town	979237
 Moriah	Town	Moriah	Town	979238
-MORIAH	CITY	Moriah	Town	979238
 MORIAH	TOWN	Moriah	Town	979238
 Morris	Town	Morris	Town	979239
 Morris	Village	Morris	Village	2390996
@@ -2348,8 +2196,6 @@ Morristown	Village	Morristown	Village	2390997
 MORRISTOWN	TOWN	Morristown	Town	979240
 MORRISTOWN	VILLAGE	Morristown	Village	2390997
 Morrisville	Village	Morrisville	Village	2390998
-MORRISVILLE	CITY	Morrisville	Village	2390998
-MORRISVILLE	TOWN	Morrisville	Village	2390998
 MORRISVILLE	VILLAGE	Morrisville	Village	2390998
 Mount Hope	Town	Mount Hope	Town	979241
 MOUNT HOPE	TOWN	Mount Hope	Town	979241
@@ -2361,12 +2207,10 @@ Mount Morris	Village	Mount Morris	Village	2391000
 MOUNT MORRIS	TOWN	Mount Morris	Town	979243
 MOUNT MORRIS	VILLAGE	Mount Morris	Village	2391000
 Mount Pleasant	Town	Mount Pleasant	Town	979244
-MOUNT PLEASANT	COUNTY	Mount Pleasant	Town	979244
 MOUNT PLEASANT	TOWN	Mount Pleasant	Town	979244
 mount Vernon	City	Mount Vernon	City	979245
 Mount Vernon	City	Mount Vernon	City	979245
 MOUNT VERNON	CITY	Mount Vernon	City	979245
-MOUNT VERNON	TOWN	Mount Vernon	City	979245
 MSTIC BEACH	VILLAGE	Mastic Beach	Village	2680279
 MT MORRIS	TOWN	Mount Morris	Town	979243
 MT. MORRIS	TOWN	Mount Morris	Town	979243
@@ -2382,7 +2226,6 @@ MUTONTOWN	VILLAGE	Muttontown	Village	2391003
 Muttontown	Village	Muttontown	Village	2391003
 MUTTONTOWN	VILLAGE	Muttontown	Village	2391003
 Nanticoke	Town	Nanticoke	Town	979247
-NANTICOKE	CITY	Nanticoke	Town	979247
 NANTICOKE	TOWN	Nanticoke	Town	979247
 Naples	Town	Naples	Town	979248
 Naples	Village	Naples	Village	2391004
@@ -2409,7 +2252,6 @@ Neversink	Town	Neversink	Town	979252
 NEVERSINK	TOWN	Neversink	Town	979252
 New Albion	Town	New Albion	Town	979253
 NEW ALBION	TOWN	New Albion	Town	979253
-NEW ALBION	VILLAGE	New Albion	Town	979253
 Newark	Village	Newark	Village	2391015
 NEWARK	VILLAGE	Newark	Village	2391015
 Newark Valley	Town	Newark Valley	Town	979254
@@ -2435,7 +2277,6 @@ NEWCOMB	TOWN	Newcomb	Town	979261
 Newfane	Town	Newfane	Town	979262
 NEWFANE	TOWN	Newfane	Town	979262
 Newfield	Town	Newfield	Town	979263
-NEWFIELD	COUNTY	Newfield	Town	979263
 NEWFIELD	TOWN	Newfield	Town	979263
 NEW HARFORD	TOWN	New Hartford	Town	979264
 New Hartford	Town	New Hartford	Town	979264
@@ -2444,9 +2285,7 @@ NEW HARTFORD	TOWN	New Hartford	Town	979264
 NEW HARTFORD	VILLAGE	New Hartford	Village	2391009
 New Haven	Town	New Haven	Town	979265
 NEW HAVEN	TOWN	New Haven	Town	979265
-NEW HAVEN	VILLAGE	New Haven	Town	979265
 New Hempstead	Village	New Hempstead	Village	2391010
-NEW HEMPSTEAD	COUNTY	New Hempstead	Village	2391010
 NEW HEMPSTEAD	VILLAGE	New Hempstead	Village	2391010
 New Hudson	Town	New Hudson	Town	979266
 NEW HUDSON	TOWN	New Hudson	Town	979266
@@ -2472,30 +2311,23 @@ NEWPORT	VILLAGE	Newport	Village	2391017
 New Rochelle	City	New Rochelle	City	979271
 NEW ROCHELLE	CITY	New Rochelle	City	979271
 New Scotland	Town	New Scotland	Town	979272
-NEW SCOTLAND	CITY	New Scotland	Town	979272
 NEW SCOTLAND	TOWN	New Scotland	Town	979272
 New Square	Village	New Square	Village	2391013
-NEW SQUARE	CITY	New Square	Village	2391013
 NEW SQUARE	VILLAGE	New Square	Village	2391013
 Newstead	Town	Newstead	Town	979273
 Newstead	TOWN	Newstead	Town	979273
 NEWSTEAD	TOWN	Newstead	Town	979273
-NEWSTEAD	VILLAGE	Newstead	Town	979273
 New Windsor	Town	New Windsor	Town	979274
-NEW WINDSOR	CITY	New Windsor	Town	979274
 NEW WINDSOR	TOWN	New Windsor	Town	979274
 New York	City	New York	City	2395220
 New York	CIty	New York	City	2395220
 NEW  YORK	CITY	New York	City	2395220
 NEW YORK	CITY	New York	City	2395220
-NEW YORK	COUNTY	New York	City	2395220
 NEW YORK 1 OF 2	CITY	New York	City	2395220
 NEW YORK 2 OF 2	CITY	New York	City	2395220
 NEW YORK CITY	CITY	New York	City	2395220
 New York Mills	Village	New York Mills	Village	2391014
 New York Mills	VIllage	New York Mills	Village	2391014
-NEW YORK MILLS	CITY	New York Mills	Village	2391014
-NEW YORK MILLS	TOWN	New York Mills	Village	2391014
 NEW YORK MILLS	VILLAGE	New York Mills	Village	2391014
 Niagara	County	Niagara	County	974130
 Niagara	Town	Niagara	Town	979275
@@ -2514,11 +2346,9 @@ NISKAHYNA	TOWN	Niskayuna	Town	979279
 NISKA UNA	TOWN	Niskayuna	Town	979279
 Niskayuna	Town	Niskayuna	Town	979279
 NISKAYUNA	TOWN	Niskayuna	Town	979279
-NISKAYUNA	VILLAGE	Niskayuna	Town	979279
 NISKAYUNA (CORRECTED COPY)	TOWN	Niskayuna	Town	979279
 NISSEQUAGUE	VILLAGE	Nissequogue	Village	2391019
 Nissequogue	Village	Nissequogue	Village	2391019
-NISSEQUOGUE	COUNTY	Nissequogue	Village	2391019
 NISSEQUOGUE	VILLAGE	Nissequogue	Village	2391019
 NOCHOLS	TOWN	Nichols	Town	979277
 NORAVIA	VILLAGE	Moravia	Village	2390995
@@ -2526,7 +2356,6 @@ Norfolk	Town	Norfolk	Town	979280
 NORFOLK	TOWN	Norfolk	Town	979280
 Northampton	Town	Northampton	Town	979281
 NORTHAMPTON	TOWN	Northampton	Town	979281
-NORTHAMPTON	VILLAGE	Northampton	Town	979281
 North Castle	Town	North Castle	Town	979282
 NORTH CASTLE	TOWN	North Castle	Town	979282
 North Collins	Town	North Collins	Town	979283
@@ -2556,18 +2385,14 @@ NORTH HILLS	VILLAGE	North Hills	Village	2391023
 North Hornell	Village	North Hornell	Village	2391024
 NORTH HORNELL	VILLAGE	North Hornell	Village	2391024
 North Hudson	Town	North Hudson	Town	979290
-NORTH HUDSON	COUNTY	North Hudson	Town	979290
 NORTH HUDSON	TOWN	North Hudson	Town	979290
 North Norwich	Town	North Norwich	Town	979291
 NORTH NORWICH	TOWN	North Norwich	Town	979291
 North Pelham	Village	North Pelham	Village	2391055
 Northport	Village	Northport	Village	2391026
-NORTHPORT	CITY	Northport	Village	2391026
 NORTHPORT	VILLAGE	Northport	Village	2391026
 North Salem	Town	North Salem	Town	979292
-NORTH SALEM	COUNTY	North Salem	Town	979292
 NORTH SALEM	TOWN	North Salem	Town	979292
-NORTH SALEM	VILLAGE	North Salem	Town	979292
 North Syracuse	Village	North Syracuse	Village	2391025
 NORTH SYRACUSE	VILLAGE	North Syracuse	Village	2391025
 North Tarrytown	Village	North Tarrytown	Village	2391138
@@ -2618,7 +2443,6 @@ OLD FIELD	VILLAGE	Old Field	Village	2391035
 OLD WESTBIRU	VILLAGE	Old Westbury	Village	2391036
 Old westbury	Village	Old Westbury	Village	2391036
 Old Westbury	Village	Old Westbury	Village	2391036
-OLD WESTBURY	TOWN	Old Westbury	Village	2391036
 OLD WESTBURY	VILLAGE	Old Westbury	Village	2391036
 Olean	City	Olean	City	979305
 Olean	Town	Olean	Town	979306
@@ -2727,14 +2551,11 @@ OXFORD	VILLAGE	Oxford	Village	2391046
 Oyster Bay	Town	Oyster Bay	Town	979336
 OYSTER BAY	TOWN	Oyster Bay	Town	979336
 Oyster Bay Cove	Village	Oyster Bay Cove	Village	2391047
-OYSTER BAY COVE		Oyster Bay Cove	Village	2391047
-OYSTER BAY COVE	CITY	Oyster Bay Cove	Village	2391047
 OYSTER BAY COVE	VILLAGE	Oyster Bay Cove	Village	2391047
 Painted Post	Village	Painted Post	Village	2391048
 PAINTED POST	VILLAGE	Painted Post	Village	2391048
 PAINTED PSOT	VILLAGE	Painted Post	Village	2391048
 Palatine	Town	Palatine	Town	979337
-PALATINE	CITY	Palatine	Town	979337
 PALATINE	TOWN	Palatine	Town	979337
 Palatine bridge	Village	Palatine Bridge	Village	2391049
 Palatine Bridge	Village	Palatine Bridge	Village	2391049
@@ -2764,7 +2585,6 @@ PARMA	TOWN	Parma	Town	979344
 PART JERVIS	CITY	Port Jervis	City	979387
 patchogue	Village	Patchogue	Village	2391053
 Patchogue	Village	Patchogue	Village	2391053
-PATCHOGUE	CITY	Patchogue	Village	2391053
 PATCHOGUE	VILLAGE	Patchogue	Village	2391053
 PATCHUGUE	VILLAGE	Patchogue	Village	2391053
 PATSDAM	VILLAGE	Potsdam	Village	2391082
@@ -2779,8 +2599,6 @@ PAWLING	TOWN	Pawling	Town	979347
 PAWLING	VILLAGE	Pawling	Village	2391054
 Peekskill	City	Peekskill	City	979348
 PEEKSKILL	CITY	Peekskill	City	979348
-PEEKSKILL	TOWN	Peekskill	City	979348
-PEEKSKILL	VILLAGE	Peekskill	City	979348
 Pelham	Town	Pelham	Town	979349
 Pelham	Village	Pelham	Village	2391055
 PELHAM	TOWN	Pelham	Town	979349
@@ -2797,9 +2615,7 @@ Pendleton	Town	Pendleton	Town	979351
 PENDLETON	TOWN	Pendleton	Town	979351
 Penfield	Town	Penfield	Town	979352
 PENFIELD	TOWN	Penfield	Town	979352
-PENFIELD	VILLAGE	Penfield	Town	979352
 Penn Yan	Village	Penn Yan	Village	2391057
-PENN YAN	CITY	Penn Yan	Village	2391057
 PENN YAN	VILLAGE	Penn Yan	Village	2391057
 Perinton	Town	Perinton	Town	979353
 PERINTON	TOWN	Perinton	Town	979353
@@ -2846,12 +2662,9 @@ PHONEIX	VILLAGE	Phoenix	Village	2391063
 Piercefield	Town	Piercefield	Town	979364
 PIERCEFIELD	TOWN	Piercefield	Town	979364
 Piermont	Village	Piermont	Village	2391064
-PIERMONT	COUNTY	Piermont	Village	2391064
-PIERMONT	TOWN	Piermont	Village	2391064
 PIERMONT	VILLAGE	Piermont	Village	2391064
 Pierrepont	Town	Pierrepont	Town	979365
 PIERREPONT	TOWN	Pierrepont	Town	979365
-PIERREPONT	VILLAGE	Pierrepont	Town	979365
 Pike	Town	Pike	Town	979366
 Pike	Village	Pike	Village	2391065
 PIKE	TOWN	Pike	Town	979366
@@ -2869,9 +2682,7 @@ Pitcher	Town	Pitcher	Town	979370
 PITCHER	TOWN	Pitcher	Town	979370
 PITSFORD	VILLAGE	Pittsford	Village	2391066
 Pittsfield	Town	Pittsfield	Town	979371
-PITTSFIELD	COUNTY	Pittsfield	Town	979371
 PITTSFIELD	TOWN	Pittsfield	Town	979371
-PITTSFIELD	VILLAGE	Pittsfield	Town	979371
 Pittsford	Town	Pittsford	Town	979372
 Pittsford	Village	Pittsford	Village	2391066
 PITTSFORD	TOWN	Pittsford	Town	979372
@@ -2882,7 +2693,6 @@ Plainfield	Town	Plainfield	Town	979374
 PLAINFIELD	TOWN	Plainfield	Town	979374
 PLANCOME MANOR	VILLAGE	Plandome Manor	Village	2391069
 Plandome	Village	Plandome	Village	2391067
-PLANDOME	TOWN	Plandome	Village	2391067
 PLANDOME	VILLAGE	Plandome	Village	2391067
 Plandome Heights	Village	Plandome Heights	Village	2391068
 PLANDOME HEIGHTS	VILLAGE	Plandome Heights	Village	2391068
@@ -2899,9 +2709,7 @@ PLATTSBURGH	CITY	Plattsburgh	City	979376
 PLATTSBURGH	TOWN	Plattsburgh	Town	979377
 Pleasant Valley	Town	Pleasant Valley	Town	979378
 PLEASANT VALLEY	TOWN	Pleasant Valley	Town	979378
-PLEASANT VALLEY	VILLAGE	Pleasant Valley	Town	979378
 Pleasantville	Village	Pleasantville	Village	2391070
-PLEASANTVILLE	TOWN	Pleasantville	Village	2391070
 PLEASANTVILLE	VILLAGE	Pleasantville	Village	2391070
 PLEASANTVILLE`	VILLAGE	Pleasantville	Village	2391070
 Plymouth	Town	Plymouth	Town	979379
@@ -2924,12 +2732,9 @@ POQUOTT	VILLAGE	Poquott	Village	2391073
 Portage	Town	Portage	Town	979385
 PORTAGE	TOWN	Portage	Town	979385
 Port Byron	Village	Port Byron	Village	2391074
-PORT BYRON	COUNTY	Port Byron	Village	2391074
-PORT BYRON	TOWN	Port Byron	Village	2391074
 PORT BYRON	VILLAGE	Port Byron	Village	2391074
 PORT BYRON (CORRECTED)	VILLAGE	Port Byron	Village	2391074
 Port Chester	Village	Port Chester	Village	2391075
-PORT CHESTER	CITY	Port Chester	Village	2391075
 PORT CHESTER	VILLAGE	Port Chester	Village	2391075
 Port Dickinson	Village	Port Dickinson	Village	2391076
 PORT DICKINSON	VILLAGE	Port Dickinson	Village	2391076
@@ -2940,13 +2745,10 @@ PORT HENRY	VILLAGE	Port Henry	Village	2391077
 PORT JARVIS	CITY	Port Jervis	City	979387
 port jefferson	VILLAGE	Port Jefferson	Village	2391078
 Port Jefferson	Village	Port Jefferson	Village	2391078
-PORT JEFFERSON	CITY	Port Jefferson	Village	2391078
 PORT JEFFERSON	VILLAGE	Port Jefferson	Village	2391078
 Port Jervis	City	Port Jervis	City	979387
 PORT JERVIS	city	Port Jervis	City	979387
 PORT JERVIS	CITY	Port Jervis	City	979387
-PORT JERVIS	COUNTY	Port Jervis	City	979387
-PORT JERVIS	VILLAGE	Port Jervis	City	979387
 PORT JOHNSON	VILLAGE	Fort Johnson	Village	2390846
 Portland	Town	Portland	Town	979388
 PORTLAND	TOWN	Portland	Town	979388
@@ -2983,7 +2785,6 @@ PRATTSBURGH	TOWN	Prattsburgh	Town	979395
 Prattsville	Town	Prattsville	Town	979396
 PRATTSVILLE	TOWN	Prattsville	Town	979396
 Preble	Town	Preble	Town	979397
-PREBLE	CITY	Preble	Town	979397
 PREBLE	TOWN	Preble	Town	979397
 Preston	Town	Preston	Town	979398
 PRESTON	TOWN	Preston	Town	979398
@@ -3006,10 +2807,8 @@ Putnam Valley	Town	Putnam Valley	Town	979403
 PUTNAM VALLEY	TOWN	Putnam Valley	Town	979403
 QUEENSBIURY	TOWN	Queensbury	Town	979405
 Queensbury	Town	Queensbury	Town	979405
-QUEENSBURY	CITY	Queensbury	Town	979405
 QUEENSBURY	TOWN	Queensbury	Town	979405
 Quogue	Village	Quogue	Village	2391085
-QUOGUE	CITY	Quogue	Village	2391085
 QUOGUE	VILLAGE	Quogue	Village	2391085
 RADOLPH	TOWN	Randolph	Town	979407
 RAMAOP	TOWN	Ramapo	Town	979406
@@ -3061,7 +2860,6 @@ RICHFIELD SPRINGS	VILLAGE	Richfield Springs	Village	2391094
 Richford	Town	Richford	Town	979418
 RICHFORD	TOWN	Richford	Town	979418
 Richland	Town	Richland	Town	979419
-RICHLAND	COUNTY	Richland	Town	979419
 RICHLAND	TOWN	Richland	Town	979419
 Richmond	Town	Richmond	Town	978648
 RICHMOND	TOWN	Richmond	Town	978648
@@ -3073,13 +2871,11 @@ Richville	Village	Richville	Village	2391096
 RICHVILLE	VILLAGE	Richville	Village	2391096
 Ridgeway	Town	Ridgeway	Town	979422
 RIDGEWAY	TOWN	Ridgeway	Town	979422
-RIDGEWAY	VILLAGE	Ridgeway	Town	979422
 Riga	Town	Riga	Town	979423
 RIGA	TOWN	Riga	Town	979423
 Ripley	Town	Ripley	Town	979424
 RIPLEY	TOWN	Ripley	Town	979424
 Riverhead	Town	Riverhead	Town	979425
-RIVERHEAD	CITY	Riverhead	Town	979425
 RIVERHEAD	TOWN	Riverhead	Town	979425
 Riverside	Village	Riverside	Village	2391097
 RIVERSIDE	VILLAGE	Riverside	Village	2391097
@@ -3094,15 +2890,12 @@ Rockland	Town	Rockland	Town	979428
 ROCKLAND	COUNTY	Rockland	County	974142
 ROCKLAND	TOWN	Rockland	Town	979428
 Rockville Centre	Village	Rockville Centre	Village	2391098
-ROCKVILLE CENTRE	CITY	Rockville Centre	Village	2391098
-ROCKVILLE CENTRE	TOWN	Rockville Centre	Village	2391098
 ROCKVILLE CENTRE	VILLAGE	Rockville Centre	Village	2391098
 RODENDALE	TOWN	Rosendale	Town	979435
 Rodman	Town	Rodman	Town	979429
 RODMAN	TOWN	Rodman	Town	979429
 Rome	City	Rome	City	979430
 ROME	CITY	Rome	City	979430
-ROME	TOWN	Rome	City	979430
 ROMOLUS	TOWN	Romulus	Town	979431
 Romulus	Town	Romulus	Town	979431
 ROMULUS	TOWN	Romulus	Town	979431
@@ -3116,16 +2909,12 @@ Rosendale	Town	Rosendale	Town	979435
 Rosendale	Village	Rosendale	Village	979435
 ROSENDALE	TOWN	Rosendale	Town	979435
 Roslyn	Village	Roslyn	Village	2391100
-ROSLYN	CITY	Roslyn	Village	2391100
 ROSLYN	VILLAGE	Roslyn	Village	2391100
 Roslyn Estates	Village	Roslyn Estates	Village	2391101
-ROSLYN ESTATES	CITY	Roslyn Estates	Village	2391101
 ROSLYN ESTATES	VILLAGE	Roslyn Estates	Village	2391101
 ROSLYN ESTATESX	VILLAGE	Roslyn Estates	Village	2391101
 Roslyn Harbor	Village	Roslyn Harbor	Village	2391102
-ROSLYN HARBOR	CITY	Roslyn Harbor	Village	2391102
 ROSLYN HARBOR	VILLAGE	Roslyn Harbor	Village	2391102
-ROSLYNHARBOR	CITY	Roslyn Harbor	Village	2391102
 ROSLYNHARBOR	VILLAGE	Roslyn Harbor	Village	2391102
 Rossie	Town	Rossie	Town	979436
 ROSSIE	TOWN	Rossie	Town	979436
@@ -3144,14 +2933,12 @@ ROXBURY  (CD WITH MAP IS FILED AWAY WITH LAW)	TOWN	Roxbury	Town	979438
 royalton	Town	Royalton	Town	979439
 Royalton	Town	Royalton	Town	979439
 ROYALTON	TOWN	Royalton	Town	979439
-ROYALTON	VILLAGE	Royalton	Town	979439
 ROYALTOWN	TOWN	Royalton	Town	979439
 Rush	Town	Rush	Town	979440
 RUSH	TOWN	Rush	Town	979440
 Rushford	Town	Rushford	Town	979441
 RUSHFORD	TOWN	Rushford	Town	979441
 Rushville	Village	Rushville	Village	2391105
-RUSHVILLE		Rushville	Village	2391105
 RUSHVILLE	VILLAGE	Rushville	Village	2391105
 Russell	Town	Russell	Town	979442
 RUSSELL	TOWN	Russell	Town	979442
@@ -3173,10 +2960,8 @@ Sackets Harbor	Village	Sackets Harbor	Village	2391108
 SACKETS HARBOR	VILLAGE	Sackets Harbor	Village	2391108
 Saddle Rock	Village	Saddle Rock	Village	2391110
 SADDLE ROCK	VILLAGE	Saddle Rock	Village	2391110
-SAGAPONACK	TOWN	Sagaponack	Village	2391112
 SAGAPONACK	VILLAGE	Sagaponack	Village	2391112
 Sag Harbor	Village	Sag Harbor	Village	2391111
-SAG HARBOR	CITY	Sag Harbor	Village	2391111
 SAG HARBOR	VILLAGE	Sag Harbor	Village	2391111
 Salamanca	City	Salamanca	City	979450
 Salamanca	Town	Salamanca	Town	979451
@@ -3196,7 +2981,6 @@ SALTAIRE	VILLAGE	Saltaire	Village	2391114
 Sand Lake	Town	Sand Lake	Town	979455
 SAND LAKE	TOWN	Sand Lake	Town	979455
 Sands Point	Village	Sands Point	Village	2391115
-SANDS POINT	CITY	Sands Point	Village	2391115
 SANDS POINT	VILLAGE	Sands Point	Village	2391115
 Sandy Creek	Town	Sandy Creek	Town	979456
 Sandy Creek	Village	Sandy Creek	Village	2391116
@@ -3209,10 +2993,8 @@ SANGERFIELD	TOWN	Sangerfield	Town	979458
 Santa Clara	Town	Santa Clara	Town	979459
 SANTA CLARA	TOWN	Santa Clara	Town	979459
 Saranac	Town	Saranac	Town	979460
-SARANAC	COUNTY	Saranac	Town	979460
 SARANAC	TOWN	Saranac	Town	979460
 Saranac Lake	Village	Saranac Lake	Village	2391117
-SARANAC LAKE	CITY	Saranac Lake	Village	2391117
 SARANAC LAKE	VILLAGE	Saranac Lake	Village	2391117
 Saratoga	County	Saratoga	County	974143
 Saratoga	Town	Saratoga	Town	979461
@@ -3270,10 +3052,8 @@ Schuyler	Town	Schuyler	Town	979473
 SCHUYLER	COUNTY	Schuyler	County	974146
 SCHUYLER	TOWN	Schuyler	Town	979473
 Schuyler Falls	Town	Schuyler Falls	Town	979474
-SCHUYLER FALLS	COUNTY	Schuyler Falls	Town	979474
 SCHUYLER FALLS	TOWN	Schuyler Falls	Town	979474
 Schuylerville	Village	Schuylerville	Village	2391123
-SCHUYLERVILLE	TOWN	Schuylerville	Village	2391123
 SCHUYLERVILLE	VILLAGE	Schuylerville	Village	2391123
 Scio	Town	Scio	Town	979475
 SCIO	TOWN	Scio	Town	979475
@@ -3290,7 +3070,6 @@ SCOTTSVILLE	VILLAGE	Scottsville	Village	2391125
 Scriba	Town	Scriba	Town	979478
 SCRIBA	TOWN	Scriba	Town	979478
 Sea Cliff	Village	Sea Cliff	Village	2391126
-SEA CLIFF	TOWN	Sea Cliff	Village	2391126
 SEA CLIFF	VILLAGE	Sea Cliff	Village	2391126
 SEMECA	TOWN	Seneca	Town	979480
 SEMMETT	TOWN	Sennett	Town	979482
@@ -3306,7 +3085,6 @@ SENECA FALLS	TOWN	Seneca Falls	Town	979481
 SENECA FALLS	VILLAGE	Seneca Falls	Village	2391127
 Sennett	Town	Sennett	Town	979482
 SENNETT	TOWN	Sennett	Town	979482
-SENNETT	VILLAGE	Sennett	Town	979482
 SENSCA	COUNTY	Seneca	County	974147
 Seward	Town	Seward	Town	979483
 SEWARD	TOWN	Seward	Town	979483
@@ -3315,7 +3093,6 @@ SHANDAKEN	TOWN	Shandaken	Town	979484
 Sharon	Town	Sharon	Town	979485
 SHARON	TOWN	Sharon	Town	979485
 Sharon Springs	Village	Sharon Springs	Village	2391128
-SHARON SPRINGS	CITY	Sharon Springs	Village	2391128
 SHARON SPRINGS	VILLAGE	Sharon Springs	Village	2391128
 Shawangunk	Town	Shawangunk	Town	979486
 SHAWANGUNK	TOWN	Shawangunk	Town	979486
@@ -3324,7 +3101,6 @@ SHELBY	TOWN	Shelby	Town	979487
 Sheldon	Town	Sheldon	Town	979488
 SHELDON	TOWN	Sheldon	Town	979488
 Shelter Island	Town	Shelter Island	Town	979489
-SHELTER ISLAND	CITY	Shelter Island	Town	979489
 SHELTER ISLAND	TOWN	Shelter Island	Town	979489
 SHELTER ISLAND  (CORRECTED COPY	TOWN	Shelter Island	Town	979489
 Sherburne	Town	Sherburne	Town	979490
@@ -3342,11 +3118,9 @@ SHERMAN	VILLAGE	Sherman	Village	2391130
 Sherrill	City	Sherrill	City	979493
 SHERRILL	CITY	Sherrill	City	979493
 Shoreham	Village	Shoreham	Village	2391131
-SHOREHAM	COUNTY	Shoreham	Village	2391131
 SHOREHAM	VILLAGE	Shoreham	Village	2391131
 SHORSVILLE	VILLAGE	Shortsville	Village	2391132
 Shortsville	Village	Shortsville	Village	2391132
-SHORTSVILLE	CITY	Shortsville	Village	2391132
 SHORTSVILLE	VILLAGE	Shortsville	Village	2391132
 Sidney	Town	Sidney	Town	979495
 Sidney	Village	Sidney	Village	2391133
@@ -3358,8 +3132,6 @@ Silver Springs	Village	Silver Springs	Village	2391135
 SILVER springs	VILLAGE	Silver Springs	Village	2391135
 SILVER SPRINGS	VILLAGE	Silver Springs	Village	2391135
 Sinclairville	Village	Sinclairville	Village	2391136
-SINCLAIRVILLE	CITY	Sinclairville	Village	2391136
-SINCLAIRVILLE	TOWN	Sinclairville	Village	2391136
 SINCLAIRVILLE	VILLAGE	Sinclairville	Village	2391136
 Skaneateles	Town	Skaneateles	Town	979496
 Skaneateles	Village	Skaneateles	Village	2391137
@@ -3368,7 +3140,6 @@ SKANEATELES	VILLAGE	Skaneateles	Village	2391137
 SKANESTELES	VILLAGE	Skaneateles	Village	2391137
 SKANTELES	TOWN	Skaneateles	Town	979496
 Sleepy Hollow	Village	Sleepy Hollow	Village	2391138
-SLEEPY HOLLOW	CITY	Sleepy Hollow	Village	2391138
 SLEEPY HOLLOW	VILLAGE	Sleepy Hollow	Village	2391138
 Sloan	Village	Sloan	Village	2391139
 SLOAN	VILLAGE	Sloan	Village	2391139
@@ -3413,10 +3184,8 @@ SOUTH BRISTOL	TOWN	South Bristol	Town	979506
 South Corning	Village	South Corning	Village	2391146
 SOUTH CORNING	VILLAGE	South Corning	Village	2391146
 South Dayton	Village	South Dayton	Village	2391147
-SOUTH DAYTON	CITY	South Dayton	Village	2391147
 SOUTH DAYTON	VILLAGE	South Dayton	Village	2391147
 Southeast	Town	Southeast	Town	979507
-SOUTHEAST	CITY	Southeast	Town	979507
 SOUTHEAST	TOWN	Southeast	Town	979507
 South Floral Park	Village	South Floral Park	Village	2391148
 SOUTH FLORAL PARK	VILLAGE	South Floral Park	Village	2391148
@@ -3428,13 +3197,11 @@ SOUTH NYACK	VILLAGE	South Nyack	Village	2391150
 SOUTHOILD	TOWN	Southold	Town	979508
 Southold	Town	Southold	Town	979508
 SOUTHOLD	TOWN	Southold	Town	979508
-SOUTHOLD	VILLAGE	Southold	Town	979508
 Southport	Town	Southport	Town	979509
 SOUTHPORT	TOWN	Southport	Town	979509
 South Valley	Town	South Valley	Town	979510
 SOUTH VALLEY	TOWN	South Valley	Town	979510
 Spafford	Town	Spafford	Town	979511
-SPAFFORD	CITY	Spafford	Town	979511
 SPAFFORD	TOWN	Spafford	Town	979511
 Sparta	Town	Sparta	Town	979512
 SPARTA	TOWN	Sparta	Town	979512
@@ -3452,7 +3219,6 @@ SPRINGFIELD	TOWN	Springfield	Town	979514
 Springport	Town	Springport	Town	979515
 SPRINGPORT	TOWN	Springport	Town	979515
 Spring Valley	Village	Spring Valley	Village	2391155
-SPRING VALLEY	COUNTY	Spring Valley	Village	2391155
 SPRING VALLEY	VILLAGE	Spring Valley	Village	2391155
 Springville	Village	Springville	Village	2391156
 SPRINGVILLE	VILLAGE	Springville	Village	2391156
@@ -3469,7 +3235,6 @@ STanford	Town	Stanford	Town	979519
 STANFORD	TOWN	Stanford	Town	979519
 STANFORD (DUTCHESS)	TOWN	Stanford	Town	979519
 Stark	Town	Stark	Town	979520
-STARK	COUNTY	Stark	Town	979520
 STARK	TOWN	Stark	Town	979520
 starkey	Town	Starkey	Town	979521
 Starkey	Town	Starkey	Town	979521
@@ -3482,7 +3247,6 @@ STEPHENTOWN	TOWN	Stephentown	Town	979523
 STEPHENTWON	TOWN	Stephentown	Town	979523
 Sterling	Town	Sterling	Town	979524
 STERLING	TOWN	Sterling	Town	979524
-STERLING	VILLAGE	Sterling	Town	979524
 STERLING (CAYUGA)	TOWN	Sterling	Town	979524
 Steuben	County	Steuben	County	974148
 Steuben	Town	Steuben	Town	979525
@@ -3537,7 +3301,6 @@ SUMMERHILL	TOWN	Summerhill	Town	979536
 Summit	Town	Summit	Town	979537
 SUMMIT	TOWN	Summit	Town	979537
 Sweden	Town	Sweden	Town	979538
-SWEDEN	CITY	Sweden	Town	979538
 SWEDEN	TOWN	Sweden	Town	979538
 SYARCUSE	CITY	Syracuse	City	979539
 Sylvan Beach	Village	Sylvan Beach	Village	2391162
@@ -3545,15 +3308,12 @@ SYLVAN BEACH	VILLAGE	Sylvan Beach	Village	2391162
 SYLVAN BECH	VILLAGE	Sylvan Beach	Village	2391162
 Syracuse	City	Syracuse	City	979539
 SYRACUSE	CITY	Syracuse	City	979539
-SYRACUSE	TOWN	Syracuse	City	979539
 taghkanic	TOWN	Taghkanic	Town	979540
 Taghkanic	Town	Taghkanic	Town	979540
 TAGHKANIC	TOWN	Taghkanic	Town	979540
 Tannersville	Village	Tannersville	Village	2391163
 TANNERSVILLE	VILLAGE	Tannersville	Village	2391163
 Tarrytown	Village	Tarrytown	Village	2391164
-TARRYTOWN	CITY	Tarrytown	Village	2391164
-TARRYTOWN	TOWN	Tarrytown	Village	2391164
 TARRYTOWN	VILLAGE	Tarrytown	Village	2391164
 Taylor	Town	Taylor	Town	979541
 TAYLOR	TOWN	Taylor	Town	979541
@@ -3565,14 +3325,12 @@ Theresa	Village	Theresa	Village	2391165
 THERESA	TOWN	Theresa	Town	979542
 THERESA	VILLAGE	Theresa	Village	2391165
 Thomaston	Village	Thomaston	Village	2391166
-THOMASTON	TOWN	Thomaston	Village	2391166
 THOMASTON	VILLAGE	Thomaston	Village	2391166
 Thompson	Town	Thompson	Town	979543
 THOMPSON	TOWN	Thompson	Town	979543
 Throop	Town	Throop	Town	979544
 THROOP	TOWN	Throop	Town	979544
 Thurman	Town	Thurman	Town	979545
-THURMAN	CITY	Thurman	Town	979545
 THURMAN	TOWN	Thurman	Town	979545
 Thurston	Town	Thurston	Town	979546
 THURSTON	TOWN	Thurston	Town	979546
@@ -3613,7 +3371,6 @@ TRUMANSBURG	VILLAGE	Trumansburg	Village	2391168
 Truxton	Town	Truxton	Town	979560
 TRUXTON	TOWN	Truxton	Town	979560
 Tuckahoe	Village	Tuckahoe	Village	2391169
-TUCKAHOE	TOWN	Tuckahoe	Village	2391169
 TUCKAHOE	VILLAGE	Tuckahoe	Village	2391169
 Tully	Town	Tully	Town	979561
 Tully	Village	Tully	Village	2391170
@@ -3627,7 +3384,6 @@ Turin	Village	Turin	Village	2391172
 TURIN	TOWN	Turin	Town	979562
 TURIN	VILLAGE	Turin	Village	2391172
 Tuscarora	Town	Tuscarora	Town	979563
-TUSCARORA	CITY	Tuscarora	Town	979563
 TUSCARORA	TOWN	Tuscarora	Town	979563
 Tusten	Town	Tusten	Town	979565
 TUSTEN	TOWN	Tusten	Town	979565
@@ -3635,7 +3391,6 @@ Tuxedo	Town	Tuxedo	Town	979566
 TUXEDO	TOWN	Tuxedo	Town	979566
 Tuxedo park	Village	Tuxedo Park	Village	2391173
 Tuxedo Park	Village	Tuxedo Park	Village	2391173
-TUXEDO PARK	CITY	Tuxedo Park	Village	2391173
 TUXEDO PARK	VILLAGE	Tuxedo Park	Village	2391173
 Tyre	Town	Tyre	Town	979567
 TYRE	TOWN	Tyre	Town	979567
@@ -3654,27 +3409,22 @@ UNADILLA	VILLAGE	Unadilla	Village	2391174
 Union	Town	Union	Town	979572
 UNION	TOWN	Union	Town	979572
 Union Springs	Village	Union Springs	Village	2391175
-UNION SPRINGS	TOWN	Union Springs	Village	2391175
 UNION SPRINGS	VILLAGE	Union Springs	Village	2391175
 Union Vale	Town	Union Vale	Town	979573
 UNION VALE	TOWN	Union Vale	Town	979573
 Unionville	Village	Unionville	Village	2391176
 UNIONVILLE	VILLAGE	Unionville	Village	2391176
 Upper Brookville	Village	Upper Brookville	Village	2391177
-UPPER BROOKVILLE	CITY	Upper Brookville	Village	2391177
 UPPER BROOKVILLE	VILLAGE	Upper Brookville	Village	2391177
 Upper Nyack	Village	Upper Nyack	Village	2391178
 UPPER NYACK	VILLAGE	Upper Nyack	Village	2391178
 UPPOER NYACK	VILLAGE	Upper Nyack	Village	2391178
 Urbana	Town	Urbana	Town	979574
-URBANA	CITY	Urbana	Town	979574
 URBANA	TOWN	Urbana	Town	979574
 utica	City	Utica	City	979575
 Utica	City	Utica	City	979575
 UTICA	CITY	Utica	City	979575
-UTICA	TOWN	Utica	City	979575
 Valatie	Village	Valatie	Village	2391179
-VALATIE	CITY	Valatie	Village	2391179
 VALATIE	VILLAGE	Valatie	Village	2391179
 Valley Falls	Village	Valley Falls	Village	2391180
 VALLEY FALLS	VILLAGE	Valley Falls	Village	2391180
@@ -3701,7 +3451,6 @@ VERSTAL	TOWN	Vestal	Town	979582
 Vestal	Town	Vestal	Town	979582
 VESTAL	town	Vestal	Town	979582
 VESTAL	TOWN	Vestal	Town	979582
-VESTAL	VILLAGE	Vestal	Town	979582
 VETERAM	TOWN	Veteran	Town	979583
 Veteran	Town	Veteran	Town	979583
 VETERAN	TOWN	Veteran	Town	979583
@@ -3716,7 +3465,6 @@ VICTORY	TOWN	Victory	Town	979585
 VICTORY	VILLAGE	Victory	Village	2391186
 Vienna	Town	Vienna	Town	979586
 VIENNA	TOWN	Vienna	Town	979586
-Village	Lacona	Lacona	Village	2390924
 VILLAGE OF THE BRANCH	VILLAGE	The Branch	Village	2391187
 Villenova	Town	Villenova	Town	979587
 VILLENOVA	TOWN	Villenova	Town	979587
@@ -3737,7 +3485,6 @@ WALES	TOWN	Wales	Town	979591
 WALKILL	TOWN	Wallkill	Town	979592
 Wallkill	Town	Wallkill	Town	979592
 WALLKILL	TOWN	Wallkill	Town	979592
-WALLKILL	VILLAGE	Wallkill	Town	979592
 Walton	Town	Walton	Town	979593
 Walton	Village	Walton	Village	2391191
 WALTON	TOWN	Walton	Town	979593
@@ -3790,7 +3537,6 @@ WATERTOWN	CITY	Watertown	City	979604
 WATERTOWN	TOWN	Watertown	Town	979605
 WATERTWON	TOWN	Watertown	Town	979605
 Waterville	Village	Waterville	Village	2391199
-WATERVILLE	CITY	Waterville	Village	2391199
 WATERVILLE	VILLAGE	Waterville	Village	2391199
 Watervliet	City	Watervliet	City	979606
 WATERVLIET	CITY	Watervliet	City	979606
@@ -3825,7 +3571,6 @@ Weedsport	Village	Weedsport	Village	2391204
 WEEDSPORT	VILLAGE	Weedsport	Village	2391204
 Wells	Town	Wells	Town	979615
 WELLS	TOWN	Wells	Town	979615
-Wellsburg	Town	Wellsburg	Village	2391205
 Wellsburg	Village	Wellsburg	Village	2391205
 WELLSBURG	VILLAGE	Wellsburg	Village	2391205
 Wellsville	Town	Wellsville	Town	979616
@@ -3836,9 +3581,7 @@ WESELY HILLS	VILLAGE	Wesley Hills	Village	2391207
 Wesley Hills	Village	Wesley Hills	Village	2391207
 WESLEY HILLS	VILLAGE	Wesley Hills	Village	2391207
 West Almond	Town	West Almond	Town	979617
-WEST ALMOND	COUNTY	West Almond	Town	979617
 WEST ALMOND	TOWN	West Almond	Town	979617
-WEST ALMOND	VILLAGE	West Almond	Town	979617
 West Bloomfield	Town	West Bloomfield	Town	979618
 WEST BLOOMFIELD	TOWN	West Bloomfield	Town	979618
 Westbury	Village	Westbury	Village	2391212
@@ -3850,9 +3593,7 @@ WEST CATHAGE	VILLAGE	West Carthage	Village	2391208
 Westchester	County	Westchester	County	974157
 WESTCHESTER	COUNTY	Westchester	County	974157
 Westerlo	Town	Westerlo	Town	979619
-WESTERLO	CITY	Westerlo	Town	979619
 WESTERLO	TOWN	Westerlo	Town	979619
-WESTERLO	VILLAGE	Westerlo	Town	979619
 WESTERLOO	TOWN	Westerlo	Town	979619
 Western	Town	Western	Town	979620
 WESTERN	TOWN	Western	Town	979620
@@ -3883,7 +3624,6 @@ West Seneca	Town	West Seneca	Town	979626
 WEST SENECA	TOWN	West Seneca	Town	979626
 West Sparta	Town	West Sparta	Town	979627
 WEST SPARTA	TOWN	West Sparta	Town	979627
-WEST SPARTA	VILLAGE	West Sparta	Town	979627
 West Turin	Town	West Turin	Town	979628
 WEST TURIN	TOWN	West Turin	Town	979628
 West Union	Town	West Union	Town	979629
@@ -3914,7 +3654,6 @@ WHITESBORO	VILLAGE	Whitesboro	Village	2391216
 Whitestown	Town	Whitestown	Town	979638
 WHITESTOWN	TOWN	Whitestown	Town	979638
 Whitney Point	Village	Whitney Point	Village	2391217
-WHITNEY POINT	TOWN	Whitney Point	Village	2391217
 WHITNEY POINT	VILLAGE	Whitney Point	Village	2391217
 Willet	Town	Willet	Town	979639
 WILLET	TOWN	Willet	Town	979639
@@ -3928,7 +3667,6 @@ WILLIAMSVILLE	VILLAGE	Williamsville	Village	2391218
 Willing	Town	Willing	Town	979642
 WILLING	TOWN	Willing	Town	979642
 Williston Park	Village	Williston Park	Village	2391219
-WILLISTON PARK	CITY	Williston Park	Village	2391219
 WILLISTON PARK	VILLAGE	Williston Park	Village	2391219
 Willsboro	Town	Willsboro	Town	979643
 WILLSBORO	TOWN	Willsboro	Town	979643
@@ -3966,11 +3704,9 @@ WOODHULL	TOWN	Woodhull	Town	979654
 Woodridge	Village	Woodridge	Village	2391225
 WOODRIDGE	VILLAGE	Woodridge	Village	2391225
 Woodsburgh	Village	Woodsburgh	Village	2391226
-WOODSBURGH	CITY	Woodsburgh	Village	2391226
 WOODSBURGH	VILLAGE	Woodsburgh	Village	2391226
 WOODSSTOCK	TOWN	Woodstock	Town	979655
 Woodstock	Town	Woodstock	Town	979655
-WOODSTOCK	COUNTY	Woodstock	Town	979655
 WOODSTOCK	TOWN	Woodstock	Town	979655
 WOODSTSOCK	TOWN	Woodstock	Town	979655
 Worcester	Town	Worcester	Town	979656
@@ -3981,7 +3717,6 @@ Wright	Town	Wright	Town	979658
 WRIGHT	TOWN	Wright	Town	979658
 WUARTSBORO	VILLAGE	Wurtsboro	Village	2391227
 Wurtsboro	Village	Wurtsboro	Village	2391227
-WURTSBORO	TOWN	Wurtsboro	Village	2391227
 WURTSBORO	VILLAGE	Wurtsboro	Village	2391227
 WYOIMING	COUNTY	Wyoming	County	974158
 Wyoming	County	Wyoming	County	974158
@@ -3995,15 +3730,12 @@ YATES	TOWN	Yates	Town	979659
 YATES (ORLEANS)	TOWN	Yates	Town	979659
 Yonkers	City	Yonkers	City	979660
 YONKERS	CITY	Yonkers	City	979660
-YONKERS	COUNTY	Yonkers	City	979660
-YONKERS	VILLAGE	Yonkers	City	979660
 York	Town	York	Town	979661
 YORK	TOWN	York	Town	979661
 Yorkshire	Town	Yorkshire	Town	979662
 YORKSHIRE	TOWN	Yorkshire	Town	979662
 Yorktown	Town	Yorktown	Town	979663
 YORKTOWN	TOWN	Yorktown	Town	979663
-YORKTOWN	VILLAGE	Yorktown	Town	979663
 Yorkville	Village	Yorkville	Village	2391229
 YORKVILLE	VILLAGE	Yorkville	Village	2391229
 Youngstown	Village	Youngstown	Village	2391230
