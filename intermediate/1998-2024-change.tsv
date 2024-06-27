@@ -29,6 +29,7 @@ sequence	field	new_value
 5191	muni_name	CHESTER (ORANGE)
 5192	muni_name	CHESTER (WARREN)
 5547	muni_name	ALBION (ORLEANS)
+7173	date_filed	2007-11-26
 7768	muni_name	LEWIS (ESSEX)
 7769	muni_name	LEWIS (LEWIS CO)
 7770	muni_name	LEWIS (LEWIS CO)
@@ -55,8 +56,11 @@ sequence	field	new_value
 9964	muni_name	WATERFORD
 9965	muni_name	WATERFORD
 9966	muni_name	WATERFORD
+9999	date_filed	2008-03-14
+10094	date_filed	2005-07-02
 10180	muni_name	MORRISTOWN
 10302	muni_type	VILLAGE
+10656	date_filed	2008-07-25
 10713	muni_name	ONTARIO
 11120	muni_name	LEWIS (LEWIS CO)
 11284	muni_type	VILLAGE
@@ -70,6 +74,7 @@ sequence	field	new_value
 11663	muni_name	FREMONT (SULLIVAN)
 11664	muni_name	FREMONT (SULLIVAN)
 11669	muni_name	FRANKLIN (FRANKLIN)
+11760	date_filed	2008-03-10
 11844	muni_name	DICKINSON (BROOME)
 11845	muni_name	DICKINSON (BROOME)
 11846	muni_name	DICKINSON (BROOME)
@@ -211,6 +216,8 @@ sequence	field	new_value
 24885	muni_name	ALBION (ORLEANS)
 24886	muni_name	ALBION (ORLEANS)
 24887	muni_name	ALBION (ORLEANS)
+26021	date_filed	2006-11-29
+27461	date_filed	2009-02-02
 27516	muni_name	LEWIS (ESSEX)
 28251	muni_name	FREMONT (STEUBEN)
 28252	muni_name	FREMONT (STEUBEN)
@@ -223,17 +230,23 @@ sequence	field	new_value
 28480	muni_name	DICKINSON (BROOME)
 28481	muni_name	DICKINSON (BROOME)
 28482	muni_name	DICKINSON (BROOME)
+28483	date_filed	2007-06-04
 28483	muni_name	DICKINSON (BROOME)
 28938	muni_name	BRIGHTON (MONROE)
 28939	muni_name	BRIGHTON (MONROE)
 28940	muni_name	BRIGHTON (MONROE)
 28941	muni_name	BRIGHTON (MONROE)
 28942	muni_name	BRIGHTON (MONROE)
+29115	date_filed	2007-09-10
 29181	muni_name	ALBION (OSWEGO)
 29188	muni_name	ALBION (OSWEGO)
+29603	date_filed	2007-08-31
 30224	muni_type	CITY
 30407	muni_name	LOWVILLE
+30804	date_filed	2007-02-26
+31303	date_filed	2007-02-13
 31837	muni_name	NORTH CASTLE
+31984	date_filed	2009-10-27
 32597	muni_name	SHELTER ISLAND
 32752	muni_name	SHELDON
 33492	muni_name	LEWIS (LEWIS CO)
@@ -250,6 +263,7 @@ sequence	field	new_value
 36384	muni_type	VILLAGE
 36513	muni_type	VILLAGE
 36784	muni_type	VILLAGE
+36835	date_filed	2013-05-28
 37425	muni_type	COUNTY
 37500	muni_name	CONSTABLEVILLE
 37525	muni_type	VILLAGE
@@ -322,6 +336,8 @@ sequence	field	new_value
 40618	muni_type	VILLAGE
 40661	muni_type	VILLAGE
 40727	muni_type	COUNTY
+40759	date_filed	2014-11-28
+40767	date_filed	2014-11-28
 40807	muni_name	PITTSFORD
 40916	muni_name	ORANGE
 40946	muni_type	TOWN
@@ -337,6 +353,7 @@ sequence	field	new_value
 41567	muni_type	VILLAGE
 42163	muni_name	TUSTEN
 42173	muni_name	HARRISON
+43338	date_filed	1998-08-12
 43808	muni_type	VILLAGE
 43910	muni_type	VILLAGE
 43914	muni_type	VILLAGE
@@ -351,6 +368,8 @@ sequence	field	new_value
 44574	muni_type	COUNTY
 44575	muni_type	COUNTY
 44576	muni_type	COUNTY
+44991	date_filed	2008-07-28
+45499	date_filed	2008-11-03
 45647	muni_type	TOWN
 45953	muni_name	RICHFIELD SPRINGS
 46606	muni_name	HAMMOND
@@ -363,6 +382,7 @@ sequence	field	new_value
 48057	muni_name	FREMONT (SULLIVAN)
 48058	muni_name	DICKINSON (BROOME)
 48272	muni_type	TOWN
+48551	date_filed	2003-02-07
 49842	muni_name	GREENVILLE (GREENE)
 49843	muni_name	GREENVILLE (GREENE)
 49980	muni_name	DICKINSON (BROOME)
@@ -380,6 +400,8 @@ sequence	field	new_value
 50760	muni_type	VILLAGE
 50765	muni_name	FISHKILL
 50767	muni_name	SMITHTOWN
+50868	date_filed	2014-08-12
+50909	date_filed	2014-06-20
 51046	muni_type	VILLAGE
 51047	muni_type	VILLAGE
 51090	muni_type	VILLAGE
@@ -423,6 +445,9 @@ sequence	field	new_value
 53997	muni_name	ALBION (OSWEGO)
 53998	muni_name	ALBION (ORLEANS)
 53999	muni_name	ALBION (ORLEANS)
+54093	date_filed	2007-04-20
+54168	date_filed	2007-07-13
+55244	date_filed	2007-04-05
 55774	muni_name	CLINTON (DUTCHESS)
 55775	muni_name	CLINTON (DUTCHESS)
 55776	muni_name	CLINTON (DUTCHESS)
@@ -433,7 +458,10 @@ sequence	field	new_value
 56242	muni_name	ALBION (ORLEANS)
 56243	muni_name	ALBION (ORLEANS)
 56712	muni_name	WALTON
+56840	date_filed	2009-03-09
+57137	date_filed	2009-04-24
 57238	muni_type	TOWN
+57584	date_filed	2009-04-24
 57753	muni_name	BRIGHTON (MONROE)
 57755	muni_name	BRIGHTON (MONROE)
 57756	muni_name	BRIGHTON (FRANKLIN)
@@ -456,6 +484,7 @@ sequence	field	new_value
 58865	muni_type	VILLAGE
 58866	muni_type	VILLAGE
 58867	muni_type	VILLAGE
+60583	date_filed	2008-06-02
 60880	muni_type	COUNTY
 62253	muni_name	LEWIS (LEWIS CO)
 62254	muni_name	LEWIS (LEWIS CO)
@@ -502,6 +531,7 @@ sequence	field	new_value
 63656	muni_type	COUNTY
 63657	muni_type	COUNTY
 63658	muni_type	COUNTY
+64328	date_filed	2003-02-07
 64792	muni_name	GREENVILLE (GREENE)
 64797	muni_name	GREENVILLE (GREENE)
 65578	muni_name	DICKINSON (BROOME)
@@ -532,11 +562,14 @@ sequence	field	new_value
 66568	muni_name	BRIGHTON (MONROE)
 66797	muni_name	ALBION (OSWEGO)
 67221	muni_type	TOWN
+67510	date_filed	2005-04-25
 67816	muni_type	TOWN
 68545	muni_type	TOWN
 68557	muni_type	TOWN
 68717	muni_type	TOWN
+70202	date_filed	2006-11-24
 70617	muni_type	TOWN
+71279	date_filed	2006-11-30
 71787	muni_name	WALES
 71926	muni_name	CHESTER (ORANGE)
 71927	muni_name	CHESTER (ORANGE)
@@ -646,6 +679,7 @@ sequence	field	new_value
 80020	muni_name	MIDDLETOWN
 80075	muni_name	ALBION (OSWEGO)
 80076	muni_name	ALBION (OSWEGO)
+80407	date_filed	2009-11-24
 80936	muni_type	CITY
 80963	muni_type	COUNTY
 81068	muni_name	ORANGE
@@ -768,7 +802,9 @@ sequence	field	new_value
 93367	muni_type	VILLAGE
 93490	muni_type	VILLAGE
 93742	muni_type	VILLAGE
+93774	date_filed	2015-02-10
 93798	muni_type	TOWN
+93825	date_filed	2015-09-17
 93858	muni_name	CLINTON
 93859	muni_name	CLINTON
 93866	muni_type	VILLAGE
@@ -787,24 +823,30 @@ sequence	field	new_value
 95144	muni_type	CITY
 95173	muni_name	TAGHKANIC
 95363	muni_type	TOWN
+95376	date_filed	2015-12-18
 95622	muni_name	ELMIRA
+95657	date_filed	2016-01-20
 95744	muni_type	VILLAGE
 95799	muni_type	TOWN
 95847	muni_name	CORTLAND
 96082	muni_type	VILLAGE
 96174	muni_name	WILLIAMSVILLE
 96195	muni_name	ULSTER
+96277	date_filed	2015-09-10
 96515	muni_type	COUNTY
 96533	muni_type	VILLAGE
 96596	muni_type	COUNTY
 96633	muni_type	TOWN
 96780	muni_name	ROCHESTER
+96848	date_filed	2016-04-25
 96881	muni_type	TOWN
 96882	muni_type	TOWN
 96888	muni_type	VILLAGE
 97014	muni_name	PORT JERVIS
 97018	muni_type	VILLAGE
+97097	date_filed	2016-05-11
 97172	muni_type	TOWN
+97316	date_filed	2016-05-25
 97359	muni_type	COUNTY
 97382	muni_type	VILLAGE
 97406	muni_name	ROME
@@ -840,11 +882,16 @@ sequence	field	new_value
 100561	muni_type	CITY
 100681	muni_type	VILLAGE
 100697	muni_type	TOWN
+100805	date_filed	2017-02-06
 100806	muni_type	COUNTY
 100855	muni_name	CORTLANDT
+100992	date_filed	2017-03-01
+101000	date_filed	2017-03-01
+101062	date_filed	2017-03-03
 101154	muni_name	WESTCHESTER
 101516	muni_name	FAYETTEVILLE
 101691	muni_type	COUNTY
+101712	date_filed	2017-04-14
 101961	muni_type	VILLAGE
 101993	muni_name	WATERVLIET
 101995	muni_name	KINGSTON
@@ -856,6 +903,7 @@ sequence	field	new_value
 102709	muni_type	VILLAGE
 102710	muni_type	VILLAGE
 102964	muni_type	VILLAGE
+103078	date_filed	2017-07-27
 103129	muni_type	VILLAGE
 103143	muni_name	CLINTON
 103340	muni_type	TOWN
@@ -873,6 +921,9 @@ sequence	field	new_value
 103779	muni_type	VILLAGE
 103879	muni_type	TOWN
 104054	muni_name	JEFFERSONVILLE
+104066	date_filed	2017-10-17
+104067	date_filed	2017-10-17
+104080	date_filed	2017-10-03
 104083	muni_name	CORTLANDT
 104097	muni_name	CHAMPLAIN
 104098	muni_name	CHAMPLAIN
@@ -890,6 +941,7 @@ sequence	field	new_value
 104913	muni_type	TOWN
 104914	muni_type	TOWN
 105053	muni_type	VILLAGE
+105192	date_filed	2017-12-27
 105231	muni_type	VILLAGE
 105261	muni_name	LEWIS
 105287	muni_type	COUNTY
@@ -898,6 +950,7 @@ sequence	field	new_value
 105413	muni_name	RENSSELAERVILLE
 105543	muni_name	CLINTON
 105583	muni_type	TOWN
+105755	date_filed	2018-02-14
 105763	muni_name	ROCHESTER
 105764	muni_name	ROCHESTER
 105898	muni_type	COUNTY
@@ -920,6 +973,8 @@ sequence	field	new_value
 106868	muni_name	SPRINGVILLE
 106868	muni_type	VILLAGE
 106905	muni_name	CHESTER
+106970	date_filed	2017-10-17
+107050	date_filed	2017-10-17
 107066	muni_type	TOWN
 107260	muni_type	TOWN
 107271	muni_type	TOWN
@@ -928,27 +983,34 @@ sequence	field	new_value
 107422	muni_name	WATERVLIET
 107595	muni_type	VILLAGE
 107616	muni_type	TOWN
+107873	date_filed	2018-06-25
 107937	muni_type	TOWN
 107982	muni_type	TOWN
 108192	muni_type	TOWN
 108332	muni_type	VILLAGE
 108407	muni_type	TOWN
+108492	date_filed	2018-08-15
 108525	muni_type	TOWN
 108652	muni_name	CLINTON
 108792	muni_type	TOWN
+108903	date_filed	2018-09-24
 109306	muni_type	VILLAGE
 109351	muni_type	TOWN
 109424	muni_name	CLINTON
 109438	muni_type	CITY
 109473	muni_type	VILLAGE
 109476	muni_type	VILLAGE
+109503	date_filed	2018-11-13
 109681	muni_type	TOWN
 109725	muni_name	HORNELL
 109950	muni_type	CITY
+109988	date_filed	2018-12-12
 110190	doc_year	2018
 110239	muni_type	TOWN
+110447	date_filed	2019-01-16
 110636	muni_type	TOWN
 110640	muni_type	VILLAGE
+110752	date_filed	2018-12-12
 111005	muni_type	VILLAGE
 111186	muni_name	ONTARIO
 111257	muni_type	VILLAGE
@@ -969,27 +1031,37 @@ sequence	field	new_value
 111751	muni_type	TOWN
 111765	muni_type	VILLAGE
 111889	muni_type	VILLAGE
+111912	date_filed	2019-05-08
 111951	muni_type	VILLAGE
 112119	muni_name	ROCHESTER
+112152	date_filed	2019-05-26
 112155	muni_type	VILLAGE
 112248	muni_type	TOWN
 112276	muni_type	TOWN
 112279	muni_type	VILLAGE
 112449	muni_name	CLINTON
+112604	date_filed	2019-06-27
+112859	date_filed	2019-07-23
+112860	date_filed	2019-07-23
 112873	muni_type	VILLAGE
 112904	muni_name	MILAN
 112904	muni_type	TOWN
 112936	muni_name	NEW YORK
 113052	muni_type	VILLAGE
+113140	date_filed	2019-08-15
 113290	muni_type	VILLAGE
 113399	muni_type	COUNTY
 113442	muni_type	VILLAGE
 113453	muni_type	TOWN
+113519	date_filed	2019-09-18
 113525	muni_type	TOWN
 113539	muni_type	TOWN
+113760	date_filed	2019-10-07
 113781	muni_type	TOWN
+113796	date_filed	2019-10-09
 113830	muni_type	CITY
 113850	muni_name	FARMINGDALE
+113968	date_filed	2019-10-23
 114128	muni_type	CITY
 114134	muni_name	BALLSTON SPA
 114537	muni_type	VILLAGE
@@ -1001,10 +1073,12 @@ sequence	field	new_value
 114938	muni_type	COUNTY
 115066	muni_name	MONTEBELLO
 115066	muni_type	VILLAGE
+115567	date_filed	2019-05-26
 115600	muni_name	FARMINGDALE
 115649	muni_type	VILLAGE
 115651	muni_name	MIDDLETOWN
 115652	muni_name	MIDDLETOWN
+115861	date_filed	2020-03-13
 116005	muni_type	TOWN
 116129	muni_type	TOWN
 116153	muni_name	LEWIS
@@ -1012,6 +1086,7 @@ sequence	field	new_value
 116154	muni_name	HENDERSON
 116154	muni_type	TOWN
 116155	muni_name	CLINTON
+116244	date_filed	2020-04-29
 116352	muni_name	ROCHESTER
 116448	muni_type	COUNTY
 116546	muni_name	LEWIS
@@ -1028,6 +1103,7 @@ sequence	field	new_value
 117402	muni_type	TOWN
 117631	muni_name	NEW YORK
 117785	muni_name	LEWIS
+117848	date_filed	2017-10-17
 118222	muni_name	MIDDLETOWN
 118268	muni_type	TOWN
 118297	muni_type	TOWN
@@ -1147,6 +1223,7 @@ sequence	field	new_value
 122651	muni_name	CLINTON
 122741	muni_type	VILLAGE
 122748	muni_name	ROCHESTER
+122796	date_filed	2021-11-10
 122879	muni_name	COLDSPRING
 122929	muni_type	TOWN
 122936	muni_type	VILLAGE
@@ -1163,6 +1240,8 @@ sequence	field	new_value
 123606	muni_type	TOWN
 123712	muni_type	COUNTY
 123744	muni_type	TOWN
+123830	date_filed	2021-12-30
+123831	date_filed	2021-12-30
 123889	muni_type	COUNTY
 123908	muni_name	GREAT VALLEY
 124153	muni_name	OGDENSBURG
@@ -1479,6 +1558,7 @@ sequence	field	new_value
 135417	doc_year	2024
 135417	law_number	16
 135417	muni_name	New York
+135420	date_filed	2023-08-31
 135507	muni_name	DERING HARBOR
 135524	muni_type	VILLAGE
 135535	muni_type	TOWN
