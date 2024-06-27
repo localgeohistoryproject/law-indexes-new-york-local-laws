@@ -3,6 +3,8 @@ sequence	field	new_value
 0	muni_type	
 1	muni_name	
 1	muni_type	
+15933	date_filed	2002-04-16
+16791	date_filed	2003-03-25
 27399	muni_type	Town
 29708	muni_type	Town
 29709	muni_type	Town
@@ -41,6 +43,8 @@ sequence	field	new_value
 58577	muni_name	Lewis (Lewis Co)
 58578	muni_name	Lewis (Lewis Co)
 62388	muni_name	Amenia
+80803	date_filed	2000-07-20
+85396	date_filed	1998-09-21
 119821	muni_name	Lacona
 119821	muni_type	Village
 123818	muni_type	Village
